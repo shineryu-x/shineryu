@@ -1,5 +1,23 @@
 #EXTM3U
 
+<================================================>
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 22:00 WIB Oman vs Qatar
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpg6Y9_KnQbhueJCGB8swdZjRfIK17XiyKog&s", 00:15 WIB Indonesia vs Arab Saudi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
 
 
 <=================== INDONESIA =============================>
@@ -6559,13 +6577,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6
 
 #EXTINF:-1 tvg-id="VH1ILoveReality.us" tvg-logo="https://i.imgur.com/0vSFVw6.png" group-title="PLUTO TV ",VH1 I Love Reality (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 6/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Persela Lamongan vs Persipura Jayapura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4329465_1.m3u8?hls_ctx=f641k81x&sign=DqNnIL2CBD_6JvGTuTSpPVFmSavh4M0RDZ7iyp5BGT_S6HPZfxhmQsB2aAWwepanZ3zgsv2w_raV2dP_SXJd04OWfuAsF_JPyYGjV1FyCFnFBvSMK0anJa-QGlIbDc-4Gsn4fSJra2HVpznqiHQwGdVErv3TiE2MMucX6cCqi8vX9tjq_27E4KJFrTBrE-P58rTLMlFwOup2PT4WDF7luAiatE1Pzl7WLBPINJoIon0achZvXGiJB6v4Vs9Oy4AGzINccJTy7nuKWWWUAZuW-JcoEAhjfUAf_CX4Pw0z3DMyTKdo8F0-7zGC9MGBmvmc5vnp8-XrBj2-eVuHpsPIyQ&timestamp=1759752673840
 
 
