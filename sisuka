@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shineryu-x/shineryu/blob/main/qris-juragankost.png" group-title="DONASI", Scan QRIS JuraganKost
-https://raw.githubusercontent.com/shineryu-x/shineryu/blob/main/qris-juragankost.png 
-
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/shineryu-x/shineryu-repo/main/qris-juragankost.png" group-title="DONASI", Scan QRIS JuraganKost
+https://raw.githubusercontent.com/shineryu-x/shineryu-repo/main/qris-juragankost.png 
 #EXTINF:-1 group-title="Support", DONASI via QRIS JuraganKost
-https://raw.githubusercontent.com/shineryu-x/shineryu/blame/main/intro_juragankost.mp4
+https://raw.githubusercontent.com/shineryu-x/shineryu-repo/main/intro_juragankost.mp4
 
 
 
