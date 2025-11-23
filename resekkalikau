@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA",RCTI
-https://rcdn.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8?hdnts=exp=1763916719~hmac=b4756b729405a521fb3071f41b30bf13412e1d41a9862f05f639bb76d25f9249
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcdn.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
