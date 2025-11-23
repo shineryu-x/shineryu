@@ -3,6 +3,7 @@
 
 
 <=================== MOVIES VOD =============================>
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://nineyu.com/bb305fed-ba05-47ad-aa81-a46440b28d37/seek/_119.jpg" group-title="Drama",SONE-397 https://edge-hls.growcdnssedge.com/hls/160176295/master/160176295.m3u8 
 https://edge-hls.growcdnssedge.com/hls/68330290/master/68330290_240p.m3u8 https://media-hls.growcdnssedge.com/b-hls-06/160176295/160176295_160p.m3u8
@@ -10,3 +11,5 @@ https://edge-hls.growcdnssedge.com/hls/68330290/master/68330290_240p.m3u8 https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg"  group-title="MOVIES VOD" ,อนงค์ My Boo (2024) 
 https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8
+
+
