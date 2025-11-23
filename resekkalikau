@@ -3,7 +3,5 @@
 
 
 <=================== NASIONAL =============================>
-#EXTINF:-1 tvg-id="1" tvg-logo="https://livechat.dens.tv/ajax/footprints.php?deptid=0&token=799f57eb5a4fd31e5bc250f6b94fcffa&onpage=hphps%3A%2F%2Fwww.dens.tv%2Ftv-local%2Fwatch%2F22%2Frtv&c=45&1763881375211" group-title="NASIONAL",RTV https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="1" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="NASIONAL",RTV https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
