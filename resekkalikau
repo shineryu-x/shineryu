@@ -4,7 +4,6 @@
 
 <=================== MOVIES VOD =============================>
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://nineyu.com/bb305fed-ba05-47ad-aa81-a46440b28d37/seek/_119.jpg" group-title="Drama",SONE-397 https://edge-hls.growcdnssedge.com/hls/160176295/master/160176295.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
