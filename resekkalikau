@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="JULIA" tvg-logo="https://fourhoi.com/cjod-364/cover-t.jpg" group-title="MOVIES VOD",https://media-hls.growcdnssedge.com/b-hls-31/117760317/117760317_240p.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="NASIONAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+<=================== MOVIES VOD =============================>
+
+#EXTINF:0 tvg-logo="https://fourhoi.com/cjod-364/cover-t.jpg" group-title="MOVIES VOD",CJOD-486 https://surrit.com/97017682-bc26-46e6-a8ee-a1ecf6a35892/720p/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg"  group-title="MOVIES VOD" ,อนงค์ My Boo (2024) 
+https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8
