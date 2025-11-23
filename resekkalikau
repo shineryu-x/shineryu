@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcdn.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 type="1" group-title="Yui Hatano" tvg-logo="https://fourhoi.com/actress/26225-t.jpg",RCTD-698
+https://surrit.com/e44ae7bb-0053-42f5-b7b1-c69bc0d2ccc7/1080p/video.m3u8
