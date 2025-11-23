@@ -2,8 +2,8 @@
 
 
 <=================== MOVIES VOD =============================>
-
-#EXTINF:0 tvg-logo="https://fourhoi.com/cjod-480/cover-t.jpg" group-title="MOVIES VOD",https://media-hls.growcdnssedge.com/b-hls-31/117760317/117760317_240p.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-logo="https://fourhoi.com/cjod-480/cover-t.jpg" group-title="MOVIES VOD",https://media-hls.growcdnssedge.com/b-hls-31/117760317/117760317_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg"  group-title="MOVIES VOD" ,อนงค์ My Boo (2024) 
 https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8
