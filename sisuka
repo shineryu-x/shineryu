@@ -12,6 +12,23 @@
 
 #EXTM3U
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+#EXTINF:-1 xui-id="1782" tvg-id="" tvg-name="MOJI" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3lRhg1mb5siWjZKSUUAMfSOrNBDTwaFSnr2JzzMERGvD.png" group-title="● SPORTx",MOJI
+https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtCwrrLE9Mki-UaYjfcvgmcoc
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+#EXTINF:-1 xui-id="11144" tvg-id="" tvg-name="VOLLY TV" tvg-logo="https://spmid.net:443/images/DS2Z0--hcvgKCGAJ9CN8_TIULVAh_pXDLdLX2Vq9_WY.png" group-title="● SPORTx",VOLLY TV
+https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtC8T7cqnaPHD77xejLH3BF7s
 
 ####################################################
 ############# TV  TV Nasional #########################
