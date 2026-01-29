@@ -8,8 +8,14 @@ https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtC8s_22p-Ohf4uIG2Dqgcg9o
 https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtC4_Y1rD4GZaBFoZVBewdRK4
 #EXTINF:-1 xui-id="4" tvg-id="" tvg-name="SCTV" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-4KMZzWvWuJmtUXX_Pykft.png" group-title="LOKAL ID HD",SCTV
 https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtCyUCppYU3IuEsRFnjsrpBlc
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="LOKAL ID HD",RCTI
 https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtC6Ub_JDdDLJQh1-Yx3EZSfQ
+
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MNC TV" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9v9MWDJyTNnNeOTP4Dh-72.png" group-title="LOKAL ID HD",MNC TV
 https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtCx7bv00AIWF2uwey9JtMzIQ
 #EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-_W8ecdRUSHxYbxtdS7gSd.png" group-title="LOKAL ID HD",GTV
