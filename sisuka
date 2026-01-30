@@ -12,13 +12,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 xui-id="1782" tvg-id="" tvg-name="MOJI" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3lRhg1mb5siWjZKSUUAMfSOrNBDTwaFSnr2JzzMERGvD.png" group-title="● SPORT",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtCwrrLE9Mki-UaYjfcvgmcoc
-
-#EXTINF:-1 xui-id="11144" tvg-id="" tvg-name="VOLLY TV" tvg-logo="https://spmid.net:443/images/DS2Z0--hcvgKCGAJ9CN8_TIULVAh_pXDLdLX2Vq9_WY.png" group-title="● SPORT",VOLLY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtC8T7cqnaPHD77xejLH3BF7s
 
 
 ####################################################
@@ -128,8 +121,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Moji.id" tvg-name="Moji.id" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png",Moji (Auto)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://spmid.net:443/play/PH_OCM5h9kpiwp7-wWFtCwrrLE9Mki-UaYjfcvgmcoc
-
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png",ANTV HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
