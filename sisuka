@@ -4749,14 +4749,28 @@ https://playerngefilm21.rpmlive.online/hls/EJ11X6ESWOHWwjv5in3RIg/9a/r8c1nmnf/6l
 https://playerngefilm21.rpmlive.online/hls/EJ11X6ESWOHWwjv5in3RIg/9a/r8c1nmnf/6le5gd/tt/index-f1-v1-a1.m3u8?v=1766826492
 https://playerngefilm21.rpmlive.online/hls/EJ11X6ESWOHWwjv5in3RIg/9a/r8c1nmnf/6le5gd/tt/index-f2-v1-a1.m3u8?v=1766826492
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 type="1" group-title="VOD" tvg-logo="https://new31.ngefilm.site/wp-content/uploads/2026/02/erTRAi241eYF4K8KoGGOI8kFPox-152x228.jpg",Predator:Badlands(2025)
+https://playerngefilm21.rpmlive.online/hls/QA1hkh1Xh3SCFVAoRDcC3w/pp/ipljeu8g/muueef/tt/master.m3u8?v=1766826492
+https://playerngefilm21.rpmlive.online/hls/QA1hkh1Xh3SCFVAoRDcC3w/pp/ipljeu8g/muueef/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://playerngefilm21.rpmlive.online/hls/QA1hkh1Xh3SCFVAoRDcC3w/pp/ipljeu8g/muueef/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 
 
 
+======================================movie kid=====================================================================
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 type="1" group-title="movie kid" tvg-logo="https://new31.ngefilm.site/wp-content/uploads/2026/01/pDWYW9v8fmJdA7N0I1MOdQA3ETq-60x90.jpg",TheSpongeBobMovie:SearchforSquarePants(2025)
+https://playerngefilm21.rpmlive.online/hls/UewaH5X4M2XS6Uq6YwmEOQ/kdv/fmg9y9ce/jz6r33/tt/master.m3u8?v=1766826492
+https://playerngefilm21.rpmlive.online/hls/UewaH5X4M2XS6Uq6YwmEOQ/kdv/fmg9y9ce/jz6r33/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://playerngefilm21.rpmlive.online/hls/UewaH5X4M2XS6Uq6YwmEOQ/kdv/fmg9y9ce/jz6r33/tt/index-f2-v1-a1.m3u8?v=1766826492
 
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTINF:-1 type="1" group-title="movie kid" tvg-logo="https://new31.ngefilm.site/wp-content/uploads/2026/01/oJ7g2CifqpStmoYQyaLQgEU32qO-60x90.jpg",Zootopia2(2025)
+https://playerngefilm21.rpmlive.online/hls/DtafWLZ49bS3NYqhny6dIw/qu/6spnie6p/6owdvy/tt/master.m3u8?v=1766826492
+https://playerngefilm21.rpmlive.online/hls/DtafWLZ49bS3NYqhny6dIw/qu/6spnie6p/6owdvy/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://playerngefilm21.rpmlive.online/hls/DtafWLZ49bS3NYqhny6dIw/qu/6spnie6p/6owdvy/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 
 
