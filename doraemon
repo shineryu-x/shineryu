@@ -13,6 +13,12 @@
 NASIONAL
 ===========
 
+
+#EXTINF:-1 tvg-name="RCTI" group-title="NASIONAL",RCTI
+https://wispy-dust-8632.shineryu9.workers.dev/rcti
+
+
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="NASIONAL",INDOSIAR BOLA 1 ✅ (CEK INI)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
