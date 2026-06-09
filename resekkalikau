@@ -7,10 +7,10 @@
 live sport
 ============
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=99977d69758016c0fc20bd01de290c4f&wsABSTime=1780918268
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=0ad4bf6e1cccba4694973995bbb8ddf5&wsABSTime=1780976426
 
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=7b1153c31946aa84aa391f1713821ae0&wsABSTime=1780919134
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=0da0010a404b17aae8fb09eda7d5ae70&wsABSTime=1781056695
 
 
 ==========
@@ -4746,12 +4746,12 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791015&extens
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=760969&extension=ts&play_token=Urk8ryCCfd
-#EXTINF:-1 group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧U+E007F|Live Premier League",[24/05 10:00 PM] Burnley vs Wolverhampton Wanderers (SKYGO: ​​SPORT 1 4K)
+#EXTINF:-1 group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",[24/05 10:00 PM] Burnley vs Wolverhampton Wanderers (SKYGO: ​​SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, seperti Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=486666&extension=ts&play_token=4mify1CNu4
-#EXTINF:-1 group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧U+E007F|Live Premier League",[24/05 10:00 PM] Burnley vs Wolverhampton Wanderers (HU: Sport 1 HD)
+#EXTINF:-1 group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",[24/05 10:00 PM] Burnley vs Wolverhampton Wanderers (HU: Sport 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, seperti Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
@@ -6749,3 +6749,10 @@ https://playerngefilm21.rpmlive.online/hls/Y1tZaUOrYqnnUrL6LnmZeA/js/1xmlfi6v/vi
 https://playerngefilm21.rpmlive.online/hls/uXwFebuB9Lve8lEysic_RA/hz/1xmlfi6v/xuepc5/tt/master.m3u8?v=1766826492
 https://playerngefilm21.rpmlive.online/hls/uXwFebuB9Lve8lEysic_RA/hz/1xmlfi6v/xuepc5/tt/index-f1-v1-a1.m3u8?v=1766826492
 https://playerngefilm21.rpmlive.online/hls/uXwFebuB9Lve8lEysic_RA/hz/1xmlfi6v/xuepc5/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+
+
+
+
+
+
