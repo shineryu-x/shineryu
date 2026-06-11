@@ -13,6 +13,11 @@ https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=c1b25e0e8d66b445d97a00
 http://live2.pro2cdnlive.com/live/channel15.flv
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN U19 Championship 2026" , LIVE ✅ (coba yang ini)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel15.m3u8
+
 ==========
 NASIONAL
 ===========
