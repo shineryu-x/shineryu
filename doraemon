@@ -10,10 +10,15 @@ live sport
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL
 https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=c1b25e0e8d66b445d97a0017bf7419d1&wsABSTime=1781178508
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=57b7be761757d43a495142f18e29e83b&wsABSTime=1781323071
+https://live2.pro2cdnlive.com/live/channel14.m3u8
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001781366255-0-0-52128c576fb7121ad1c7318cc8da77c0
 
 ===================================================================piala dunia=================================================================
 
