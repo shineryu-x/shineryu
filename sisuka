@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTINF:-1 type="" group-title="marvel" tvg-logo="https://www.dropbox.com/scl/fi/vu5542dw746ss5e671ns2/ChatGPT-Image-12-Jun-2026-22.51.58.png?rlkey=sly4kurdpkbt2yl9z56c7wd12&raw=1",SAWERIA NYA BOSS ke DANA AJA 087861472110
+#EXTINF:-1 type="" group-title="sawer" tvg-logo="https://www.dropbox.com/scl/fi/vu5542dw746ss5e671ns2/ChatGPT-Image-12-Jun-2026-22.51.58.png?rlkey=sly4kurdpkbt2yl9z56c7wd12&raw=1",SAWERIA NYA BOSS ke DANA AJA 087861472110
 https://www.dropbox.com/scl/fi/vumprcqszzvvxyeidgxce/lv_7311328768193318145_20260612223029.mp4?rlkey=t97bxdg3hjc97qd4ln2fy0jq2&raw=1
 
 ============
@@ -13,21 +13,22 @@ https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=fc61047036acd9bf91ca2d
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 2
 https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=b29bf591552ab526cddfba9b978c7893&wsABSTime=1782179152
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla 1
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel12v.m3u8
+https://live2.pro2cdnlive.com/live/channel4.m3u8
 
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla 2
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel22.m3u8
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=45433009673961564d60e12ab84e3de6&wsABSTime=1782277056
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live bolla 3
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001781482965-0-0-bca464dc676e178387ea257fa0aa157e
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=45433009673961564d60e12ab84e3de6&wsABSTime=1782277056
+
 
 ===================================================================piala dunia=================================================================
 
