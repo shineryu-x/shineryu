@@ -8,24 +8,27 @@ https://www.dropbox.com/scl/fi/vumprcqszzvvxyeidgxce/lv_7311328768193318145_2026
 live sport
 ============
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 1
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=f03c45c80b000687a376108469efe776&wsABSTime=1782527098
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=1dd51a24fa6f92819f69af0bd9b57a3a&wsABSTime=1782528359
 
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 2
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=8338e2ce55adcd7290ad3b2c7fa443fc&wsABSTime=1782356841
+https://live2.pro2cdnlive.com/live/channel26.m3u8
 
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 3
-https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=f67961afcaeb60243ed51f573cca1019&wsABSTime=1782356897
+https://live2.pro2cdnlive.com/live/channel25.m3u8
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 1
+#EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 4
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=a52476d0d29f6b2c0f2e5016f639fa56&wsABSTime=1782528482
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 1 senegal v irak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel11.m3u8
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001782485067-0-0-b6400428091ed6c5fbf1ea4dd472fd93
 
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 2
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 2 nurwegia v prancis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782430564-0-0-e14f2eae32cb78ab0f5f738a1808d541
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=4d149d212c27be614e9c915337564fd3&wsABSTime=1782528307
 
 #EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
@@ -41,33 +44,121 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 
 #EXTINF:-1 grup-logo="https://i.imgur.com/vI113x2.jpeg",BOLA | PIALA DUNIA 2026
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽ LIVE 0 Unite 2
+#EXTINF:-1 tvg-id="" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 (Unite 2)
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 (T Sports HD)
+https://trs1.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 (PTV)
+http://starhub.pro/live/Anthony2/Anthony123/61674.ts
 
 #EXTINF:-1 tvg-id="" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽ LIVE 0 P SPORTS
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽ TSN1
+#EXTINF:-1 tvg-id="" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 TSN1
 https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽SS
+
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽✅ LIVE 0 TSN1 s2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽✅ LIVE 0 SS
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽✅LIVE 0 FS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
+
+#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026" ,🆕⚽ LIVE 1 BBC ONE KILATLIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026" ,🆕⚽ LIVE 1 BBC 1 (UNITED KINGDOM)
+https://xemzi.short.gy/1000001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026" ,🆕⚽ LIVE 0 FUSSBALL TV 1 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽ LIVE 0 ITV 1 KILATLIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 iTV 1 (United Kingdom)
+https://xemzi.short.gy/1000011
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (LOKAL TES)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 Curacao vs Pantai Gading
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 ( Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tencent-css.byteplaycdn.com/07bb35cb52df0d6b2522a52897e2b0be/6A3E1D4F/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+
+
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 Ekuador vs Jerman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tencent-css.byteplaycdn.com/51da51a3a8697e5a1eef7f027a05901e/6A3E1DB3/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽(LIVE 1 Sport.TV 1)---
+https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽LIVE 1 (Tudn Sports)---
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽LIVE 1 (Tv Azteca)---
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽LIVE 1 (TVP Sports)---
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽LIVE 1 Dazn Direct
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (Caze)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (Sport)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (D SPORTS 🇦🇷)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
 
 #EXTINF:-1 tvg-name="Piala Dunia FIFA" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (Mono 29 Thai)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (TRT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (TUDN)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 5 (CT SPORT 🇸🇰)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 2 (CT SPORT 🇸🇰)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -76,7 +167,7 @@ https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/defau
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 6 (JOJ SPORT 🇸🇰)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 2 (JOJ SPORT 🇸🇰)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -85,45 +176,25 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 7 (JOJ SPORT 2 🇸🇰)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE2 (JOJ SPORT 2 🇸🇰)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPRO P:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 8 (D SPORTS +)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 9 (D SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 10 (D SPORTS 2)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 11 (TIPIK 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 3 (TIPIK 1)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 13 (TELEMUNDO)✅
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 3 (TELEMUNDO)✅
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 14 (CCTV5) ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 3 (CCTV5) ✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5hd.m3u8
 
@@ -160,6 +231,31 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 1
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 2
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 3
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 4
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 5
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 6
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono6
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 7
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽MONOMAX 8
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
 
 ==========
 NASIONAL
