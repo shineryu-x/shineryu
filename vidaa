@@ -7,11 +7,11 @@ https://www.dropbox.com/scl/fi/vumprcqszzvvxyeidgxce/lv_7311328768193318145_2026
 ============
 live sport
 ============
-#EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 1 indo v japan
+#EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 1 indo v korea
 https://live2.pro2cdnlive.com/live/channel25.m3u8
 
-#EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 2 japan v usa
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=87b01bf37d6163ec9561fbf5c8b85858&wsABSTime=1782561474
+#EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 2 german v china
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=0ef28026a3e87a38381919503c65d74c&wsABSTime=1782693641
 
 #EXTINF:-1 group-title="live sport" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 3 korea v bahrin
 https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=527b08cc1ea08859983d43622bac4ed4&wsABSTime=1782561518
