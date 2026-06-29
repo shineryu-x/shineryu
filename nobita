@@ -2,498 +2,6 @@
 
 
 
-#EXTINF:-1 group-title=" ? PIALA DUNIA 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",TV360 FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus7
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9869
-
-#EXTINF:-1 group-title=" ? PIALA DUNIA 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTB ANEKA
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
-#EXTINF:-1 group-title=" ? PIALA DUNIA 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTB Go Live FHD
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",CT SPORT (CHEKO)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",TUDN (Mexico)
-#KODIPROP:inputstream=inputstream.adaptif
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",Las Estrellas (Mexico)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", TVP Sports
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", C SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", SportTV 1 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-https://dl.dropboxusercontent.com/scl/fi/rg3p05lguaqxz4s1487wi/lv_0_20260618164813.mp4?rlkey=6pvfw02o6o67hk0hb72pqlihp&st=c6g3o1ib&dl=1
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", SportTV 2 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", SportTV 3 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",CAZE TV 1 (BRAZIL)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",CAZE TV 2 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",CAZE TV 3 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",BBC One (AMERIKA)
-https://xemzi.short.gy/1000001
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",BBC Two (AMERIKA)
-https://xemzi.short.gy/1000002
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",DSPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",DSPORTS+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",DSPORTS2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",RTBF TIPIK 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",RTBF TIPIK 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
-https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", TSN 1 ((BARU))
-http://opplextv.cyou:8080/nasir6160/nasir/349014
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%201%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ2LnRz
-https://7pal.short.gy/tsn1ca
-
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", TSN 2 ((BARU))
-http://opplextv.cyou:8080/nasir6160/nasir/349015
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%202%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ1LnRz
-https://7pal.short.gy/tsn2ca
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", TSN 3 ((BARU))
-http://opplextv.cyou:8080/nasir6160/nasir/349016
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%203%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ0LnRz
-https://7pal.short.gy/tsn3ca
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", TSN 4 ((BARU))
-http://opplextv.cyou:8080/nasir6160/nasir/349017
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%204%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQzLnRz
-https://7pal.short.gy/tsn4ca
-
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026", TSN 5 ((BARU))
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/349018
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",Mono 29 (THAILAND)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="? PIALA DUNIA 2026",Sports 2 (India)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://66.102.126.10:8000/play/a022/index.m3u8
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 1 (BIGMATCH)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 2 (BIGMATCH)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 3 (BIGMATCH)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 4
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 5
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 6
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
-
-#EXTINF:-1, group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 7
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 8
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",ARENASPORT 9
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",Arena Premium 1 (BIGMATCH)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",Arena Premium 2 (BIGMATCH)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
-
-#EXTINF:-1 group-title="?PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",Arena Premium 3 (BIGMATCH)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
-
-
-#EXTINF:0 tvg-country="IT" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",RTS1 (SENEGAL)
-http://69.64.57.208/rts1/playlist.m3u8
-
-#EXTINF:0 tvg-country="IT" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",RTS2 (SENEGAL)
-http://69.64.57.208/rts2/playlist.m3u8
-
-#EXTINF:-1 group-title="? PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",Channel 5 (SGP)
-http://cdn6.163189.xyz/163189/ch5
-
-#KODIPROP:inputstream=inputstream.adaptif
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="? PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",CCTV 5 (CHINA)
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
-#KODIPROP:inputstream=inputstream.adaptif
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="? PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",CCTV 5+ (CHINA)
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-
-#KODIPROP:inputstream=inputstream.adaptif
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="? PIALA DUNIA 2026" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",CCTV 16 (CHINA)
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-
-#EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026", HRT1 (KROASIA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
-
-#EXTINF:0 tvg-country="IT" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",SIC (PORTUGAL)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",TV PUBLICA (FOKUS TIMNAS ARGENTINA)
-https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-
-#EXTINF:0 tvg-country="IT" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",TRT1 (TURKI)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",RUSTAVI 2 (GEORGIA)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",CT 2 (CHEKO)
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",MOLDOVA 1 (MOLDOVA)
-https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/0.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",MOLDOVA 2 (MOLDOVA)
-https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",RTSH 1 HD (ALBANIA)
-http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",RTSH SPORT (ALBANIA)
-http://188.172.107.157:15151/live/rtshsport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="? PIALA DUNIA 2026",RTVS SPORT (SLOVAKIA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 1 CH1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18249&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18249&type=dash
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 1 CH2
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18249
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18249
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 2 CH1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18250&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18250&type=dash
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 2 CH2
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18250
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18250
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 3 CH1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18252&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18252&type=dash
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 3 CH2
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18252
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18252
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 4 CH1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18253&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 4 CH2
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18253
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
-
-####
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH1
-https://live05.msdht.app/live/87547578.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH2
-https://live05.msdht.app/live/08552895.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH3
-https://live05.msdht.app/live/24561735.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH4
-https://live05.msdht.app/live/08552895.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH5
-https://live05.msdht.app/live/97312754.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH6
-https://live05.msdht.app/live/87547578.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH7
-https://live05.msdht.app/live/99121525.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH8
-https://live05.msdht.app/live/90725470.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH9
-https://live05.msdht.app/live/24561735.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH10
-https://live05.msdht.app/live/19919577.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH11
-https://live05.msdht.app/live/87379114.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH12
-https://live05.msdht.app/live/43612277.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH13
-https://live05.msdht.app/live/90865415.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH14
-https://live05.msdht.app/live/87379114.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH15
-https://live05.msdht.app/live/99121525.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH16
-https://live05.msdht.app/live/87547578.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH17
-https://live05.msdht.app/live/90865415.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH18
-https://live05.msdht.app/live/14707124.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH19
-https://live05.msdht.app/live/02456966.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH20
-https://live05.msdht.app/live/14830711.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH21
-https://live05.msdht.app/live/78905744.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH22
-https://live05.msdht.app/live/90725470.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH23
-https://live05.msdht.app/live/78905744.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH24
-https://live05.msdht.app/live/19919577.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH25
-https://live05.msdht.app/live/14707124.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH26
-https://live05.msdht.app/live/08552895.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH27
-https://live05.msdht.app/live/99121525.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH28
-https://live05.msdht.app/live/14707124.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH29
-https://live05.msdht.app/live/90865415.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH30
-https://live05.msdht.app/live/78905744.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH31
-https://live05.msdht.app/live/90725470.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH32
-https://live05.msdht.app/live/87379114.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH33
-https://live05.msdht.app/live/43612277.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH34
-https://live05.msdht.app/live/14830711.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH35
-https://live05.msdht.app/live/43612277.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH36
-https://live05.msdht.app/live/97312754.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH37
-https://live05.msdht.app/live/14707124.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH38
-https://live05.msdht.app/live/08552895.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH39
-https://live05.msdht.app/live/87547578.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH40
-https://live05.msdht.app/live/43612277.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH41
-https://live05.msdht.app/live/08552895.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH42
-https://live05.msdht.app/live/78905744.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH43
-https://live05.msdht.app/live/99121525.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH44
-https://live05.msdht.app/live/78905744.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH45
-https://live05.msdht.app/live/90725470.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH46
-https://live05.msdht.app/live/19919577.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="BERI MAKAN PIALA DUNIA 2026 (DI JIKA MAIN)",COLA.TV99 CH47
-https://live05.msdht.app/live/99121525.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH48
-https://live05.msdht.app/live/87379114.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH49
-https://live05.msdht.app/live/87547578.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH50
-https://live05.msdht.app/live/24561735.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH51
-https://live05.msdht.app/live/19919577.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH52
-https://live05.msdht.app/live/90865415.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH53
-https://live05.msdht.app/live/78905744.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH54
-https://live05.msdht.app/live/87379114.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH55
-https://live05.msdht.app/live/90865415.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH56
-https://live05.msdht.app/live/87547578.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH57
-https://live05.msdht.app/live/90725470.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH58
-https://live05.msdht.app/live/24561735.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="FEED PIALA DUNIA 2026 (ON JIKA MAIN)",COLA.TV99 CH59
-https://live05.msdht.app/live/14830711.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
 
 
 
@@ -512,9 +20,6 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="?? LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 #EXTINF:-1 group-title="? BERITA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE HD
@@ -522,12 +27,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZycUM_rdoIOMzDhaj7oVfFjbcbwHYM3eDPQ&s" group-title="?? LOKAL",TRANSTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96ZZ6Smw3yXFDrvOdiFTmSqisSM-ZYP_KhQ&s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="?? LOKAL",TRANS7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
@@ -535,7 +38,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="? BERITA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",METROTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 group-title="?? LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
@@ -548,21 +50,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 
-
 #EXTINF:-1 group-title="?? LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",MOJI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 group-title="?? LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 
-
-#KODIPROP:inputstream=inputstream.adaptif
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptif
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #EXTINF:-1 tvg-id="Magna Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg" group-title=""?? LOKAL",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w521170343_b1128000_sleng.m3u8
 
@@ -597,7 +90,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="? BERITA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 #EXTINF:-1 group-title="? BERITA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews (ERROR)
@@ -606,7 +98,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-32777
 ###LOKAL #2###
 
 #EXTINF:-1 group-title="?? LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 ###HIBURAN###
