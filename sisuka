@@ -23,9 +23,9 @@ https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=527b08cc1ea08859983d43
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel25.flv
 
-
-
-
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTINF:-1 type="" group-title="NASIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",rcti dropbox
+https://www.dropbox.com/scl/fi/2ze7r7077ah0gi7iv044f/rcti.m3u?rlkey=eled23o92zhrf0wmfzekej98z&dl=1
 
 
 
@@ -253,7 +253,13 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
 
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTINF:-1 type="" group-title="NASIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",rcti dropbox
+https://www.dropbox.com/scl/fi/2ze7r7077ah0gi7iv044f/rcti.m3u?rlkey=eled23o92zhrf0wmfzekej98z&dl=1
 
+
+#EXTINF:-1 type="" group-title="NASIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",rcti dropbox
+https://www.dropbox.com/scl/fi/2ze7r7077ah0gi7iv044f/rcti.m3u?rlkey=eled23o92zhrf0wmfzekej98z&dl=1
 
 ===
 
