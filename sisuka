@@ -287,8 +287,8 @@ VTV COVER https://i.imgur.com/oZl4oNH.jpeg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="NASIONAL" ,🆕⚽ BOLA | PIALA DUNIA 2026
 https://xemzi.short.gy/1000001
 
-#EXTM3U
-#EXTINF:-1 tvg-id="vidio21746" group-title="Vidio" tvg-logo="",Vidio Channel 21746
+
+#EXTINF:-1 tvg-id="vidio21746" group-title="NASIONAL" tvg-logo="",Vidio Channel 21746
 https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/21746/file/drm/dash/stream.mpd?hdntl=exp=1783171688~acl=/stream/21746/file/drm/dash/stream.mpd!/stream/21746/file/drm/dash/*/aac/*!/stream/21746/file/drm/dash/*/*-2160p/*!/stream/21746/file/drm/dash/*/*-1440p/*!/stream/21746/file/drm/dash/*/*-1080p/*!/stream/21746/file/drm/dash/*/*-720p/*!/stream/21746/file/drm/dash/*/*-480p/*!/stream/21746/file/drm/dash/*/*-360p/*~id=168529190~data=hdntl~hmac=aff75934070153b150ec045ffd50fea12fbd164e2d31b82e5dbe53b1a6be812b
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
