@@ -1,7 +1,20 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="nasional",🆕⚽ BOLA | PIALA DUNIA 2026 no 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="nasional",🆕⚽ BOLA | PIALA DUNIA 2026 no 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="nasional" ,🆕⚽ BOLA | PIALA DUNIA 2026 no 3
+https://xemzi.short.gy/1000001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="nasional",🆕⚽ BOLA | PIALA DUNIA 2026 no 4
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 
 #EXTINF:-1 group-title="nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI HD
