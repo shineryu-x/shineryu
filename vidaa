@@ -463,6 +463,40 @@ https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-327770703000000
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
+
+=====================================================live volly VNL===============================================================
+
+
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 1
+https://live2.pro2cdnlive.com/live/channel25.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 2
+https://live2.pro2cdnlive.com/live/channel26.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 3
+https://live2.pro2cdnlive.com/live/channel33.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 4
+https://live1.pro2cdnlive.com/live/channel80.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 5
+https://live1.pro2cdnlive.com/live/channel81.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 6
+https://live1.pro2cdnlive.com/live/channel82.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 7
+https://live1.pro2cdnlive.com/live/channel83.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 8
+https://live1.pro2cdnlive.com/live/channel84.m3u8
+#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 9
+https://live1.pro2cdnlive.com/live/channel85.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 1
+https://live1.pro2cdnlive.com/live/channel1.m3u8
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 2
+https://live1.pro2cdnlive.com/live/channel6.m3u8
+
+
+
 ==========
 ANAK
 ==========
