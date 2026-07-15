@@ -187,10 +187,6 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1
 NASIONAL
 ===========
 
-==========
-NASIONAL
-===========
-
 #EXTINF:-1 tvg-id="b" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="NASIONAL",PIALA DUNIA 🆕⚽✅ LIVE 0 FOX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
@@ -328,20 +324,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="MAGNA TV" tvg-logo=" https://i.imgur.com/d7hjhxi.jpeg" group-title="NASIONAL", MAGNA TV 🇮🇩1️⃣
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6y8Bum2.jpeg" group-title="NASIONAL", Moji HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji00.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id=" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/6y8Bum2.jpeg" group-title="NASIONAL", MOJI TV
-https://s.id/0Gt4L
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",MOJI HD
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="🇮🇩 LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV 
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
@@ -429,17 +413,6 @@ https://live1.pro2cdnlive.com/live/channel83.m3u8
 https://live1.pro2cdnlive.com/live/channel84.m3u8
 #EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 9
 https://live1.pro2cdnlive.com/live/channel85.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 1
-https://live1.pro2cdnlive.com/live/channel1.m3u8
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 2
-https://live1.pro2cdnlive.com/live/channel6.m3u8
-
-
 
 ==========
 ANAK
@@ -913,68 +886,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 =======================================
 daerah
 =====================================
-
-===TVRI
-#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="DAERAH",TVRI Sumatera Selatan
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="DAERAH",TVRI Sumatera Barat
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="DAERAH",TVRI Sulawesi Selatan
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="DAERAH",TVRI Jakarta
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="DAERAH",TVRI Papua
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="DAERAH",TVRI Gorontalo
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="DAERAH",TVRI Aceh
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="DAERAH",TVRI Yogyakarta
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="DAERAH",TVRI Sulawesi Utara
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="DAERAH",TVRI Jawa Tengah
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="DAERAH",TVRI Sulawesi Tenggara
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1M7I.png" group-title="DAERAH",TVRI Kalimantan Barat
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="DAERAH",TVRI Sulawesi Barat
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="DAERAH",TVRI Jambi
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="DAERAH",TVRI Riau
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="DAERAH",TVRI Bengkulu
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="DAERAH",TVRI Kalimantan Selatan
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="DAERAH",TVRI Jawa Barat
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="DAERAH",TVRI NTB
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="DAERAH",TVRI NTT
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="DAERAH",TVRI Kalimantan Tengah
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="DAERAH",TVRI Kalimantan Timur
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="DAERAH",TVRI Lampung
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="DAERAH",TVRI Sumatera Utara
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="DAERAH",TVRI Sulawesi Tengah
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="DAERAH",TVRI Maluku
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="DAERAH",TVRI Bali
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1zgV.png" group-title="DAERAH",TVRI Bangka Belitung
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="DAERAH",TVRI Papua Barat
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 ===>DAERAH START
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2070,5 +1981,4 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 ==========
 END |BERITA
 ===========
-
 
