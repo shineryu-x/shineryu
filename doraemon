@@ -187,10 +187,6 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1
 NASIONAL
 ===========
 
-==========
-NASIONAL
-===========
-
 #EXTINF:-1 tvg-id="b" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="NASIONAL",PIALA DUNIA 🆕⚽✅ LIVE 0 FOX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
@@ -229,7 +225,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",RCTI (V+)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="NASIONAL",RCTI (V+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -340,7 +336,8 @@ https://s.id/0Gt4L
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",MOJI HD
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="🇮🇩 LOKAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV 
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 
@@ -412,7 +409,7 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 ANAK
 ==========
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="KIDS",RTV1️⃣
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",RTV1️⃣
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/rtv.m3u8
@@ -530,33 +527,50 @@ LIVE VOLLY
 =====================================================live volly VNL===============================================================
 
 
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 1
-https://live2.pro2cdnlive.com/live/channel25.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 2
-https://live2.pro2cdnlive.com/live/channel26.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 3
-https://live2.pro2cdnlive.com/live/channel33.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 4
-https://live1.pro2cdnlive.com/live/channel80.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 5
-https://live1.pro2cdnlive.com/live/channel81.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 6
-https://live1.pro2cdnlive.com/live/channel82.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 7
-https://live1.pro2cdnlive.com/live/channel83.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 8
-https://live1.pro2cdnlive.com/live/channel84.m3u8
-#EXTINF:-1 group-title="live volly VNL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly VNL 9
-https://live1.pro2cdnlive.com/live/channel85.m3u8
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel26.m3u8
 
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel25.m3u8
 
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel33.m3u8
 
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel80.m3u8
 
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel81.m3u8
 
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 1
-https://live1.pro2cdnlive.com/live/channel1.m3u8
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",live piala dunia bolla 2
-https://live1.pro2cdnlive.com/live/channel6.m3u8
+#EXTINF:-1 group-title="llive volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel83.m3u8
+
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel84.m3u8
+
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel85.m3u8
+
+#EXTINF:-1 group-title="live volly 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",live volly ch9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.streambylivepulse.com/live/channel82.m3u8
 
 ==========
 OLAHRAGA LOKAL
