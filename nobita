@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
+https://flat-smoke-ae7f.yudifamili1.workers.dev/rcti
+
+#EXTINF:-1 group-title="TV Nasional"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
+https://flat-smoke-ae7f.yudifamili1.workers.dev/sctv
+
+#EXTINF:-1 group-title="TV Nasional",Indosiar
+https://flat-smoke-ae7f.yudifamili1.workers.dev/indosiar
+
+#EXTINF:-1 group-title="TV Nasional",MNCTV
+https://flat-smoke-ae7f.yudifamili1.workers.dev/mnctv
+
+#EXTINF:-1 group-title="TV Nasional",Trans TV
+https://flat-smoke-ae7f.yudifamili1.workers.dev/transtv
+
+#EXTINF:-1 group-title="TV Nasional",Trans7
+https://flat-smoke-ae7f.yudifamili1.workers.dev/trans7
+
+#EXTINF:-1 group-title="Berita",CNN Indonesia
+https://flat-smoke-ae7f.yudifamili1.workers.dev/cnn
+
+#EXTINF:-1 group-title="Berita",CNBC Indonesia
+https://flat-smoke-ae7f.yudifamili1.workers.dev/cnbc
+
+#EXTINF:-1 group-title="Berita",TVRI World
+https://flat-smoke-ae7f.yudifamili1.workers.dev/tvriworld
+
+#EXTINF:-1 group-title="Berita",Magna Channel
+https://flat-smoke-ae7f.yudifamili1.workers.dev/magna
+
 
 
 
