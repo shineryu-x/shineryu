@@ -16,7 +16,7 @@ https://live2.streambylivepulse.com/live/channel8.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",piala presiden 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-http://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/dtv/v216/ID.json
+https://live2.streambylivepulse.com/live/channel8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="NASIONAL",VTV 
