@@ -8,6 +8,15 @@ https://www.dropbox.com/scl/fi/vumprcqszzvvxyeidgxce/lv_7311328768193318145_2026
 ==========
 NASIONAL
 ===========
+#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",piala presiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+http://xxyznt1-cf.sbbol1011play.sbs/auth%3D92c30dd47d5718c8e4f9643928079a5166ff8fc6159a49bf5081a59efd54f5c75de98e266158cdfe4522a268248b8e67d317d316d71927a42e2088e26868884df8ce7f1d2c5e27cc8186e08bc102a24999d372457a61748522a3839498160c35cd13fa750203bd1384393d49d265fa334b5555b68f33c61ecb681df2ea05c65cff2a270e98433c01af233f6bf163f02357b3383ce1bff85d0a5466f2dba9bbd57a2a1ef7db97776fc54078f8b819e7f7%26cid%3DyqrD-uL791K58-bh_pyuX260725%26_v%3D2%26_r%3DfYs_oe%26_vis%3D074697736a0ec2b65814e2d45b6f82e7e03c4572d4cdb2fb7eefa43198cfcfb8%26_vvs%3D216d69c0ecf329c83790955fbc5f127f6ff0e4d851409ddea678c9edcf36644e%26_vas%3D93037b67f6b64c41f586da470ca90e272b30e89c50a5ded8eeb8ab03a084bd45/app/hyo01-s.spplyo258.com_c429406-1784986675641.ts
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",piala presiden 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+http://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/dtv/v216/ID.json
 
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="NASIONAL",VTV 
