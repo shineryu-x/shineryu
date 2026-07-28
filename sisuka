@@ -8,10 +8,10 @@ https://www.dropbox.com/scl/fi/vumprcqszzvvxyeidgxce/lv_7311328768193318145_2026
 ==========
 NASIONAL
 ===========
-#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg",piala presiden Rovers fc vs Arema fc
+#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg",DPMM FC vs Persib Bandung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel4.m3u8
+https://live2.streambylivepulse.com/live/channel10.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg",piala presiden 2 persibaya vs psi j
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -23,7 +23,7 @@ https://bfff1.hystreamer.com/live/5007279_F5hd01.m3u8?expire=1785085188&sign=7ca
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",volly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-http://live1.streambylivepulse.com/live/channel81.m3u8
+https://live2.streambylivepulse.com/live/channel10.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg",volly 2
 https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=ee820e40eda54fd1d5c8dd1fe21a74f9&wsABSTime=1780609220
