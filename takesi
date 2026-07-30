@@ -18,7 +18,7 @@ https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", VOLLY BALL LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://xlz.livebytexscorez.com/
-http://live2.streambylivepulse.com/live/channel33.m3u8
+https://live2.streambylivepulse.com/live/channel33.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/VTV.1.png?raw=true" group-title="NASIONAL",VTV 
