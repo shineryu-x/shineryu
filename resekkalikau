@@ -1,7 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg", HOT XXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://missav.ws/id/cemd-869
-https://surrit.com/8b9c46df-03fa-4478-b6cf-f684d22dd8d5/playlist.m3u8
 https://surrit.com/8b9c46df-03fa-4478-b6cf-f684d22dd8d5/720p/video.m3u8
