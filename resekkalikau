@@ -1,7 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Piala_Presiden.svg", HOT XXX
+#EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe6vUuVBP7NGvva-XfeEcFh3QoNo8TDkVPj-krspJxvrRxrfF8e5aqyk&s=10", HOT XXX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://missav.ws/id/cemd-869
 https://surrit.com/d12e3aa7-a2ab-4ee0-93dc-8130c249f9cf/playlist.m3u8
 https://surrit.com/d12e3aa7-a2ab-4ee0-93dc-8130c249f9cf/720p/video.m3u8
+
+
+#EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe6vUuVBP7NGvva-XfeEcFh3QoNo8TDkVPj-krspJxvrRxrfF8e5aqyk&s=10", HOT XXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://missav.ws/id/cemd-869
+https://surrit.com/a3b217a1-080d-419b-af7c-64edbdb6cadd/1080p/video.m3u8
+
+#EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe6vUuVBP7NGvva-XfeEcFh3QoNo8TDkVPj-krspJxvrRxrfF8e5aqyk&s=10", HOT XXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://missav.ws/id/cemd-869
+https://surrit.com/a3b217a1-080d-419b-af7c-64edbdb6cadd/playlist.m3u8
+
+#EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe6vUuVBP7NGvva-XfeEcFh3QoNo8TDkVPj-krspJxvrRxrfF8e5aqyk&s=10", HOT XXX
+https://surrit.com/a3b217a1-080d-419b-af7c-64edbdb6cadd/playlist.m3u8
+
+#EXTINF:-1 group-title="HOT XXX" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe6vUuVBP7NGvva-XfeEcFh3QoNo8TDkVPj-krspJxvrRxrfF8e5aqyk&s=10", HOT XXX
+https://surrit.com/a3b217a1-080d-419b-af7c-64edbdb6cadd/1080p/video.m3u8
