@@ -8,6 +8,12 @@ https://www.dropbox.com/scl/fi/vumprcqszzvvxyeidgxce/lv_7311328768193318145_2026
 
 *********************************************************************************************************************************************************************************************************************************************
 
+#EXTINF:-1 group-title="BOLA | ASEAN CHAMPIONSHIP 2026" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2c/Logo_Piala_Asean_2026.svg",BOLA | ASEAN CHAMPIONSHIP 2026 GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5516851_1.m3u8?auth_key=1785578466-0-b57f7e4f42a9dc58d01468b161fd54e6
+
+
 #EXTINF:-1 group-logo="https://i.imgur.com/tRY91LJ.jpeg",BOLA | ASEAN CHAMPIONSHIP 2026
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2c/Logo_Piala_Asean_2026.svg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",BOLA | ASEAN CHAMPIONSHIP 2026 RCTI
