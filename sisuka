@@ -3530,79 +3530,60 @@ halaman tidak tersedia
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U billed-msg=".", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24" https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
 
 
 
-
-
-
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Ukraina vs Portugal
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Makedonia Utara vs Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel33.m3u8
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Serbia vs Belanda
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Jerman vs Swiss
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Slovakia vs Republik Ceko
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Belgia vs Denmark
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Bulgaria vs Israel
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Latvia vs Swiss
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
+
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Polandia vs Ukraina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel33.m3u8
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 
-===============
-
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Torino vs Roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/t_Z4S", 23:00 WIB Genoa vs Südtirol
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Como vs Parma
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 01:45 WIB Internazionale vs Udinese
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-<================>
-
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Leeds United vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Villarreal vs Real Betis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-<================>
 
 EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
@@ -3616,159 +3597,53 @@ https://tfz96gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboar
 
 
 <====================LIVE EVENT 2================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Prancis vs Jerman
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Estonia vs Belgia
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Belanda vs Finlandia
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
+
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Italia vs Republik Ceko
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Rumania vs Turki
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true", PIALA AFF
-
-###EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="CHANNEL | SPORT INDO" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true",beIN Sports 4 ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-###https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-
-###XTINF:-1 tvg-id="beINSports5.qa@MENA" group-title="CHANNEL | SPORT INDO" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true",beIN Sports 5 ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-###https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-
-
-=====
-
-
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://shorter.me/t_Z4S", 02:00 WIB Fiorentina vs Pisa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕SOCCER CHANNEL (🏆AIOS)
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-##https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=112
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=112.play
-###EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕SPORTSTARS 1 (🏆AIOS v)
-###https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:00 WIB Rayo Vallecano vs Espanyol
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-####EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕SPORTSTARS 2 (🏆AIOS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
-###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 01:00 WIB Deportivo Alavés vs Valencia
 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=114.play
-###EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕SPORTSTARS 3 (🏆AIOS v)
-###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:30 WIB Elche vs Real Madrid
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-####EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕SPORTSTARS 4 (🏆AIOS)
-###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-=====
-
-
-====================================================================================================================================================================
-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
-============================================================ALLINONEBAR=============================================================================================
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play
-####EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕BEIN SPORTS 1 (🚀8826)
-###https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
-####EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕BEIN SPORTS 2(🚀8826)
-##https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
-###EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",🆕BEIN SPORTS 3 (🚀8826)
-###https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-=====
-
-
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW66D0JgVPQ9VJ0Ms0nktUtT7knamVEX4T8X5-SLb_tw&s=10", 02:00 WIB Liverpool vs Tottenham Hotspur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-###EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",SPOTV (CG)
-###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-###https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-
-###EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO", SPOTV 2 (CG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
+EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW66D0JgVPQ9VJ0Ms0nktUtT7knamVEX4T8X5-SLb_tw&s=10", 02:00 WIB Ipswich Town vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-###https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-====spotv
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=119
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=119.play
-###EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",SPOTV (🏆AIOS)
-###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
-###EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SPORTS%20ICON%20THUMB.png?raw=true" group-title="CHANNEL | SPORT INDO",SPOTV 2 (🏆AIOS)
-###https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -3776,7 +3651,7 @@ ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL I
 //Collected by andra|sinatra menampilkan playlist >>> NASIONAL 
 //========================================================================
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_IND.png?raw=true",CHANNEL | INDONESIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | INDONESIA
 
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MOJI.1.png?raw=true",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -3875,7 +3750,7 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstar
 
 #EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 SH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(kMpCmUJPzeNU3EhZIzsfB3LFn7WkGWFXPUWHPHn1vPnB7hID61XLD9H2WACZ3RfTMYMGn2nf0ZNsb-_Gt-mpSin5i3zPZ3xzxxd61ojq2C8JNLrKIeFcD5kEgYFnnuKl)/dm/3/x8qckyq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(wZmeoZGvjRvADtNPl9zWi3IQvUZy1KzYpwdwbgKnv3WqyoAWvLdlXo2MFbh01GmW8euSF4QCYNxWZtnu1ZGC5OMcRBOUdRy1gRDRgdiuCNfilkSwSsQcPl8lFy-oAre9)/dm/3/x8qckyq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3943,8 +3818,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=drm&x=1789435339&k=d4eefa4643524435007c84cefe7e60336815027bd07744062772364aca456063
-https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1789435339&k=233e846f722c36fe9b8cd47f4a6af61a6e18df08333b44543e7a8d21bd4f6560&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=205&ext=drm&x=1789547250&k=66b57450eab89493eb61b8995b28b14ce1d29da091848c683b3bf5088afac887
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=205&ext=dash&x=1789547250&k=2d55d74460ecee1a118e11ecf32ea7e160d58c8600a8a91309b64ff6f2945604&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3952,22 +3827,22 @@ https://vididi.bonetvstream.workers.dev/index.mpd?q=205&ext=dash&x=1789435339&k=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=drm&x=1789435339&k=755ba06031c6d85041135679c6b884984e4d78befc4be3e760e1e9343ae10860
-https://vididi.bonetvstream.workers.dev/index.mpd?q=204&ext=dash&x=1789435339&k=4473697ccc64423bb937c058997df2c71bda7327daef3b5fd7c4cdaadd9eb250&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=drm&x=1789547250&k=a719b89defa161eef7ed7e1dd6977292f6c570f9d6b8e03513235d2aaf32e153
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=dash&x=1789547250&k=598ad62bd19ace222b3dd1e729848cfeb1577bf3c65152d284210acef858b668&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bonetvstream.workers.dev/index.mpd?q=782&ext=dash&x=1789435339&k=b491b195fdf41c2690c65fdacbcbdd04da5649fd070ec7cdd00f61c552fa5351&sc=782
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=782&ext=dash&x=1789547250&k=6fd27d96d7376cc30438496cabc81d6132809443e4fadafd6d3b8ec440db5ce7&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bonetvstream.workers.dev/index.mpd?q=783&ext=dash&x=1789435339&k=58df9670c67ff8f5e170b8e1b3ad53d4a60b432d9149ff1c4c94ebb0755d88bc&sc=783
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=783&ext=dash&x=1789547250&k=3e0d9dec0adde40552a4bc3c47f73f6d80a4a3065e020413914e8b9708fec8e1&sc=783
 
 ++===
 
@@ -4048,6 +3923,8 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+
 
 ==========
 DAERAH
@@ -4165,6 +4042,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
+
+
 
 ==========
 HBO GROUP| UTAMA
@@ -4945,32 +4824,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 
 HITS NOW Cover  https://i.imgur.com/7mZwDie.jpeg
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71c326133b743daac90b64e0a0ac488:fb19cdf9aeffdd39b4a06b363a2b5ff8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",🆕HITS NOW (257)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS HD
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
-
+#EXTINF:0  tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS HD (NON SUB) (💫14926) 
+https://ott.djdoolky76.io/api/streams/182/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+#EXTINF:0  tvg-logo="https://i.imgur.com/A58Jd0u.jpeg" group-title="FILM",HITS MOVIES(NON SUB) (💫14926) 
+https://ott.djdoolky76.io/api/streams/229/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+#EXTINF:0 tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS NOW (NON SUB) (💫14926)
+https://ott.djdoolky76.io/api/streams/181/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 ==========
 
 ===========hits movie https://i.imgur.com/A58Jd0u.jpeg
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://i.imgur.com/A58Jd0u.jpeg" group-title="FILM",HITS MOVIES
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 
 =====
@@ -7874,6 +7737,29 @@ LEAGUE CUP
 
 #EXTINF:-1 group-logo="https://i.imgur.com/vIE9nWJ.jpeg",BOLA | LEAGUE CUP 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Ipswich Town vs Arsenal BEIN SPORT 3 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Liverpool vs Tottenham Hotspur BEIN SPORT 2 AU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Liverpool vs Tottenham Hotspur Arena Sport 1 (Croatia) (💫14926)
+https://ott.djdoolky76.io/api/streams/296/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Ipswich Town vs Arsenal Arena Sport 2 (Croatia(💫14926)
+https://ott.djdoolky76.io/api/streams/297/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+
 #EXTINF:-1 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐01:30 WIB Chelsea vs Luton Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8156,47 +8042,47 @@ https://ott.djdoolky76.io/api/streams/310/manifest.m3u8?token=eyJhbGciOiJIUzI1Ni
 
 
 -ARENA SPORT
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1", Arena Sport 1 (Croatia) (💫14926)
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1", Arena Sport 1 (Croatia) (💫14926)
 https://ott.djdoolky76.io/api/streams/296/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 10 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 10 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/305/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 t tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 2 (Croatia(💫14926)
+#EXTINF:0 t tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 2 (Croatia(💫14926)
 https://ott.djdoolky76.io/api/streams/297/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 3 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 3 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/298/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 4 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 4 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/299/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 5 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 5 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/300/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 6 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 6 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/301/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 7 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 7 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/302/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 8 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 8 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/303/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 9 (Croatia)(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport 9 (Croatia)(💫14926)
 https://ott.djdoolky76.io/api/streams/304/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 1(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 1(💫14926)
 https://ott.djdoolky76.io/api/streams/148/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 2(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 2(💫14926)
 https://ott.djdoolky76.io/api/streams/149/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 3(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 3(💫14926)
 https://ott.djdoolky76.io/api/streams/150/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1   tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 4(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 4(💫14926)
 https://ott.djdoolky76.io/api/streams/151/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 5(💫14926)
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 5(💫14926)
 https://ott.djdoolky76.io/api/streams/152/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
 ----HBO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Family (NON SUB) (💫14926) 
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Family (NON SUB) (💫14926) 
 https://ott.djdoolky76.io/api/streams/164/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO HD (NON SUB) (💫14926) 
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO HD (NON SUB) (💫14926) 
 https://ott.djdoolky76.io/api/streams/162/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Hits (NON SUB) (💫14926) 
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Hits (NON SUB) (💫14926) 
 https://ott.djdoolky76.io/api/streams/165/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Signature (NON SUB) (💫14926) 
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Signature (NON SUB) (💫14926) 
 https://ott.djdoolky76.io/api/streams/163/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",Cinemax (NON SUB) (💫14926) 
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",Cinemax (NON SUB) (💫14926) 
 https://ott.djdoolky76.io/api/streams/166/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 ====================================================================================================================================================================
 ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
@@ -8715,9 +8601,9 @@ https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8
 ###https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8
 https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sky Sport 1 (💫14926)
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sky Sport 1 (💫14926)
 https://ott.djdoolky76.io/api/streams/250/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sky Sport 1 UHD (💫14926)
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sky Sport 1 UHD (💫14926)
 https://ott.djdoolky76.io/api/streams/262/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sky Sport 2 (💫14926)
 https://ott.djdoolky76.io/api/streams/251/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
@@ -8933,6 +8819,13 @@ LALIGA
 ============================
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ============================
+
+#EXTINF:0 tvg-id="BEINSPORT 1 FR" group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",Elche vs Real Madrid BEIN SPORT 1 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 ==================
 NEW 4/5/2025
 ===========
@@ -13939,6 +13832,370 @@ VOD KOREA |OFF
 #EXTINF:-1 group-logo="https://imgur.com/a/sCLBcZw",VOD KOREA
 
 
+========================================== VOD INDONESIA ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",SADALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-musuh-dalam-selimut-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",MUSUH DALAM SELIMUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmusuhDalam-Selimut1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3zP_qB1uNqQ/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",UANG PASSOLO - AMPLOP KONDANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDuang-Passolo.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/12/06/32923-poster-film-wasiat-warisan-instagramcomfilm-wasiatwarisan.jpg" group-title="VOD | INDONESIAN MOVIE",WASIAT WARISAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwasiat-Warisan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO4l2zUeL84/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmertuaNgeri-Kali.m3u8
+#EXTINF:-1 tvg-logo="https://www.inibalikpapan.com/wp-content/uploads/2025/10/54899-film-air-mata-mualaf-instagram.webp" group-title="VOD | INDONESIAN MOVIE",AIR MATA MUALAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDairMata-Mualaf.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-sampai-titik-terakhirmu-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",SAMPAI TITIK TERAKHIRMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsampaiTitik-Terakhirmu.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/11/30/24386-foto-teaser-film-legenda-kelam-malin-kundang.jpg" group-title="VOD | INDONESIAN MOVIE",MALIN KUNDANG (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmalin-Kundang.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YZ95gKwbeAc/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",GAK NYANGKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDgak-Nyangka.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZBfAWdV_m-M/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LOSMEN BU BROTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlosmen-BuBroto.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tHO7uDPXAXE/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEMUSIM SETELAH KEMARAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsemusimSetelah-Kemarau.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaylo.id/wp-content/uploads/2025/10/The-Period-of-her-Cover.jpg" group-title="VOD | INDONESIAN MOVIE",THE PERIOD OF HER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDThePeriod-OfHer.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LXRnwwpXz6s/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KAKA BOSS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkaka-Bos.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/48b12d297087ee9d94504ac7007f042d9b5b0654b1e3913ac5cfe73ff42cc221.png" group-title="VOD | INDONESIAN MOVIE",YOWIS BEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyowis-Ben2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-cocote-tonggo-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",COCOTE TONGGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VhWZK7kD-t5NDffiKzLhG8DzQC8=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/50708/0f3377.jpg" group-title="VOD | INDONESIAN MOVIE",GJLS: IBUKU IBU IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDGjls-ibuku-IbuIbu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m52r8kXdfBs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",CINTA TAK SEINDAH DRAMA KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121759
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E5Jdw9alAKM/mqdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SURGA DI TELAPAK KAKI BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121473
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/soqYtgjfzFk/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",HIDUP INI TERLALU BANYAK KAMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121409
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qa1YwXc9K8d2i6yww8vP3js9vpU=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/11721/angel-pol-837a40.png" group-title="VOD | INDONESIAN MOVIE",ANGEL POOLLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=129411
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-tak-ingin-usai-di-sini-2025_600_880.webp" group-title="VOD | INDONESIAN MOVIE",TAK INGIN USAI DI SINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126285
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u7SRMGoJ9b9TsVtKm5WRvVz-bjo=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8865733/mendadak-dangdut_upload-979150.jpg" group-title="VOD | INDONESIAN MOVIE",MENDADAK DANGDUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadak-Dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/api/wm/2023/09/25/poster-film-imam-tanpa-makmum_169.jpeg?w=1200" group-title="VOD | INDONESIAN MOVIE",IMAM TANPA MAKMUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=106724
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrSiTa_Kiwg/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SAH: KATA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=124261
+#EXTINF:-1 tvg-logo="https://img.merahputih.com/media/cc/ae/a6/ccaea608cb6507fa0d6af372d8c65073.jpg" group-title="VOD | INDONESIAN MOVIE",SERIBU BAYANG PURNAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=135434
+#EXTINF:-1 tvg-logo="https://gayatekno.id/wp-content/uploads/2024/06/images-4-1.jpeg" group-title="VOD | INDONESIAN MOVIE",SEKAWAN LIMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s6Kz_94zdHQ/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KUN ANA WA ANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=113967
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01jxv9vw5dx1dze9bz55pkggcc.jpg" group-title="VOD | INDONESIAN MOVIE",JODOH 3 BUJANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126981
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5DbFY0Fq-Vs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LEBIH DARI SELAMA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=127488
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLjzzjfwwvg/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",PANGGIL AKU AYAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=128955
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/u6B4OIoT4lnWqIxy3lEEVcnleY4.jpg", group-title="VOD | INDONESIAN MOVIE",5 CM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/s/m64grw66otbicfw/5cm.%282012%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xlvSRI6t_PU/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEBELUM DIJEMPUT NENEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsebelum-DijemputNenek.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="VOD | INDONESIAN MOVIE",SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="VOD | INDONESIAN MOVIE",SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+#EXTINF:-1 tvg-logo="bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp">https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="VOD | INDONESIAN MOVIE",MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="VOD | INDONESIAN MOVIE",KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen01.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/26/3231857517.jpg" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpesugihan-SateGagak01.m3u8
+#EXTINF:-1 tvg-id="idmp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Mwmc7oAeR-obt9nWviM-Ck9QhJzzP5mIGg&s" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sore%2C%20Istri%20Dari%20Masa%20Depan.m3u8
+#EXTINF:-1 tvg-id="stt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5LINiFoxsgYcC64dB6En-qw14f2OyZNm09BQLSrH&s" group-title="VOD | INDONESIAN MOVIE ",SAMPAI TITIK TERAKHIRMU
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sampai%20Titik%20Terakhirmu.m3u8
+#EXTINF:-1 tvg-id="dbi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvTNlc989yqLkIpkXbgdMrSIn578B7lSNcz3ysD8EAg&s" group-title="VOD | INDONESIAN MOVIE",DIA BUKAN IBU (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dia%20Bukan%20Ibu%20(2025).m3u8
+#EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="VOD | INDONESIAN MOVIE",13 BOMB DI JAKARTA
+https://pixeldrain.com/api/file/ezqDwxkK?download
+#EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGuoL8zAZDlf0v9ut47HLFPfiEKSF6z_nboQlKVTUnnmxlI4lXyvw35M&s=10" group-title="VOD | INDONESIAN MOVIE",LAYANGAN PUTUS THE MOVIE
+https://pixeldrain.com/api/file/6fwxFxx9?download
+#EXTINF:-1 tvg-id="auto.mohon.doa.restu" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/Poster_MDR.jpg" group-title="VOD | INDONESIAN MOVIE ",MOHON DOA RESTU
+https://pixeldrain.com/api/file/fNKYLoB8?download
+#EXTINF:-1 tvg-id="auto.surga.di.bawah.langit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Yll3zF2BJKQnk-BYsPpwMa3Bj1aLWCyU9TInYcOmdYBzgz92Rud65WxjjMdVaK0XSVS9SzeFRlDzi8Lrc5PQepzdTy2PAeeslwb2gWU&s=10" group-title="VOD | INDONESIAN MOVIE",SURGA DI BAWAH LANGIT
+https://pixeldrain.com/api/file/wbFWgdQ1?download
+#EXTINF:-1 tvg-id="auto.agak.laen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Agak_Laen_film_poster.jpg/250px-Agak_Laen_film_poster.jpg" group-title="VOD | INDONESIAN MOVIE",AGAK LAEN
+https://pixeldrain.com/api/file/st9vqZYF?download
+#EXTINF:-1 tvg-id="auto.algrafi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9d/1015066-algrafi-0-1000-0-1500-crop.jpg/250px-1015066-algrafi-0-1000-0-1500-crop.jpg" group-title="VOD | INDONESIAN MOVIE",ALGRAFI
+https://pixeldrain.com/api/file/QXa6Czx5?download
+#EXTINF:-1 tvg-id="auto.ali.topan" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/19/Poster_Ali_Topan_%282023%29.jpg/250px-Poster_Ali_Topan_%282023%29.jpg" group-title="VOD | INDONESIAN MOVIE",ALI TOPAN
+https://pixeldrain.com/api/file/MkWPhQ5s?download
+#EXTINF:-1 tvg-id="auto.ancika" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32WN9epalvDpOW0i18gh6vKq8a7vYtjZKquj7KxCj2g&s=10" group-title=" VOD | INDONESIAN MOVIE",ANCIKA
+https://pixeldrain.com/api/file/owtfAL5s?download
+#EXTINF:-1 tvg-id="auto.ayo.balikan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUwNzJlMTItOTAxNy00YTBiLTk3YTAtMjYzZGI5ZWFlNDhjXkEyXkFqcGc@._V1_.jpg" group-title="VOD | INDONESIAN MOVIE",AYO BALIKAN
+https://pixeldrain.com/api/file/VxqRRQ1B?download
+#EXTINF:-1 tvg-id="auto.bu.tejo.sowan.jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f3/Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg/250px-Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg" group-title="VOD | INDONESIAN MOVIE",BU TEJO SOWAN JAKARTA
+https://pixeldrain.com/api/file/tzav6YZV?download
+#EXTINF:-1 tvg-id="auto.cek.ombak.lagi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh9qZi7ziUeKAGJWjsPkEJiT7xVt4qpW25tDUBO-p-gmVvDDSVArSpHA&s=10" group-title="VOD | INDONESIAN MOVIE ",CEK OMBAK ( LAGI )
+https://pixeldrain.com/api/file/zUBcXqQw?download
+#EXTINF:-1 tvg-id="auto.demi.si.buah.hati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xYyTNpRJUyTo-39aJaxtquupt_871CKvLe92cUvV7UyY3OH0R4IxzDVy10n0Ip-_zIBTTXawTdFGl0jcj41z3Kb3ouOCkBPTSDYRG1Y&s=10" group-title="VOD | INDONESIAN MOVIE",DEMI SI BUAH HATI
+https://pixeldrain.com/api/file/c57W6uEZ?download
+#EXTINF:-1 tvg-id="auto.dinda" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2c/Poster_Dinda_%282024%29.jpg/250px-Poster_Dinda_%282024%29.jpg" group-title="VOD | INDONESIAN MOVIE",DINDA
+https://pixeldrain.com/api/file/j1HPSh9x?download
+#EXTINF:-1 tvg-id="auto.kereta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uKvCVIObPI6MBueY7YBPqjQu4YokVqOz-9u6Idz-f2yw1-Niq8oUo5WK&s=10" group-title="VOD | INDONESIAN MOVIE",KERETA
+https://pixeldrain.com/api/file/oCpSqqah?download
+#EXTINF:-1 tvg-id="auto.ali.topan" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/0/7/9/6/8/9/1079689-melukis-luka-0-230-0-345-crop.jpg?v=f808c75fd0" group-title="VOD | INDONESIAN MOVIE",MELUKIS LUKA
+https://pixeldrain.com/api/file/nXDb1hSE?download
+#EXTINF:-1 tvg-id="auto.mukidi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | INDONESIAN MOVIE",MUKIDI
+https://pixeldrain.com/api/file/xDtZjqYB?download
+
+
+
+======================================== VOD ACTION ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-captain-america-the-first-avenger-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: The First Avenger
+https://stream.playcdn.de/playlist/a00a77b725db40863099ab4ead323f15/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-interstellar-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Interstellar
+https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-debt-collector-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Debt Collector
+https://stream.playcdn.de/playlist/4b09f31be5a0924014b466e583a6e7f3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-backrooms-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Backrooms
+https://stream.playcdn.de/playlist/fcdd16b0d7673dd1dc3ae22a156f11ee/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gayong-2-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Gayong 2
+https://stream.playcdn.de/playlist/ead40f0fcbd6d44b5dae6fa91051d6e0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-agent-shaan-elite-pursuit-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Agent Shaan Elite Pursuit
+https://stream.playcdn.de/playlist/0d69bb97d76c259b7990a8b86948c4e1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-star-wars-mandalorian-grogu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Star Wars: The Mandalorian and Grogu
+https://stream.playcdn.de/playlist/97068cacc08f1a644050a3934b8d34f5/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-shelter-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shelter
+https://stream.playcdn.de/playlist/aade3f796963ed292fd94b014559e03d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/02/film-wrecking-crew-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Wrecking Crew
+https://stream.playcdn.de/playlist/17abf94232adfa20b088fcbaf9ad05f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-son-sara-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Son of Sara
+https://stream.playcdn.de/playlist/198f060e86c0cbc83f10ef3b053a33cd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Wrath of Man
+https://stream.playcdn.de/playlist/6fc40f67c3979f49df1e124ba46e7ec0/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-disclosure-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Disclosure Day
+https://stream.playcdn.de/playlist/a9dd119abae8c4189dadf957b13ccec0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-masters-universe-2026-1-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Masters of the Universe
+https://stream.playcdn.de/playlist/1c05ce0aed1b73a6f8295a270cfd6713/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-lee-cronins-mummy-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lee Cronin's The Mummy
+https://stream.playcdn.de/playlist/9dcb869e18f971fec28f2b4903a6c24f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-run-2025-1-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Run
+https://stream.playcdn.de/playlist/e1402e6e2afbbb5987cf658e311947f1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-project-hail-mary-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Project Hail Mary
+https://stream.playcdn.de/playlist/f9dc1e3abe0f4abacb40b7b235c56d99/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-furious-2025-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Furious
+https://stream.playcdn.de/playlist/e8c0fe26202f0c6592faafea25e2ed6c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/06/film-spider-man-across-the-spider-verse-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Across the Spider-Verse
+https://stream.playcdn.de/playlist/4a2180a34789a413c7464cddb433390e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/08/film-bu-feng-zhui-ying-2025-lk21-4.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Shadow's Edge (Bu feng zhui ying aka)
+https://stream.playcdn.de/playlist/f70b8fd5e42fe54ee94f32300610430b/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-hustle-2004-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Hustle
+https://stream.playcdn.de/playlist/115ed6403f36e0e7c8d2141560515046/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns
+https://stream.playcdn.de/playlist/8dab345a1b7fc29ee141e12d4a1c3885/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-legend-aang-last-airbender-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avatar Aang: The Last Airbender
+https://stream.playcdn.de/playlist/0b438d80baa57f1c409f794a98167997/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-avengers-age-of-ultron-2015.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Age of Ultron
+https://stream.playcdn.de/playlist/939521bfedc9b8c88957e5810ed25da6/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-jackass-best-last-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Jackass: Best and Last
+https://stream.playcdn.de/playlist/7ea32cde50b55e0d28df4953fb2cf9cf/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-devils-mouth-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Devil's Mouth
+https://stream.playcdn.de/playlist/681a2ce7f59f23b412aa72f159c68e6d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-eyes-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Eyes
+https://stream.playcdn.de/playlist/f09725e7485c9bb6f51ff0d2d16c0c90/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lenin-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lenin
+https://stream.playcdn.de/playlist/c8cc736de916a72ed375ff89e36c2274/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gentleman-thief-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Gentleman Thief
+https://stream.playcdn.de/playlist/789be48b523ff7e3f5cdd03d4bc1e556/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Fantastic Four: First Steps
+https://stream.playcdn.de/playlist/c04520ada6ec9849fd8ea7df1f436eb1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thunderbolts*
+https://stream.playcdn.de/playlist/e16a3452d86ceee7610550aab1fa0f85/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/05/film-punisher-one-last-kill-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Punisher: One Last Kill
+https://stream.playcdn.de/playlist/771d4fc7f4f4f74ffe170bffea109d53/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-odyssey-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Odyssey
+https://stream.playcdn.de/playlist/6d120519f4a4dd1fdf60b65b1886ac62/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-supergirl-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Supergirl
+https://stream.playcdn.de/playlist/cdd5c4e9db57eef9843c3946b5c34aeb/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-amazing-spider-man-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Amazing Spider-Man
+https://stream.playcdn.de/playlist/dd5958147c92d25fbeae52026f11061f/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-soccer-gong-fu-nv-zu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Soccer: Gong fu nv zu
+https://stream.playcdn.de/playlist/22641f858468626d2e4bdd173218e1b0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/07/film-spider-man-homecoming-2017.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Homecoming
+https://stream.playcdn.de/playlist/61d1356baaa19c7ae8f39bdba894b521/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-amazing-spider-man-2-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Amazing Spider-Man 2
+https://stream.playcdn.de/playlist/4592a14b2528e00dd534b8ac733f04df/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/05/film-captain-america-civil-war-2016.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: Civil War
+https://stream.playcdn.de/playlist/bcf9c2887536bb867817497de8bd96f1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/07/film-spider-man-far-from-home-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Far from Home
+https://stream.playcdn.de/playlist/a0ed2e8bc29f83e77185627212e7120f/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-avengers-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Avengers
+https://stream.playcdn.de/playlist/b14821bcf0dbeb2a43bf05c0ac085fe4/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-all-that-we-never-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", All That We Never Were
+https://stream.playcdn.de/playlist/1d8460e74976f9fb54bb404018b96f69/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-malaikat-malam-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Malaikat Malam
+https://stream.playcdn.de/playlist/c6d875655602458abbe4e353e2f5b4f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
+https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
+https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
+https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
+https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
+https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
+https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
+https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
+https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
+https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
+https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
+https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-deep-water-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Deep Water
+https://stream.playcdn.de/playlist/ace88b4f6afc788c96ed56c7f3c080d1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-14-peaks-nothing-is-impossible-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", 14 Peaks: Nothing Is Impossible
+https://pixeldrain.com/api/file/fGc4XLNS?download
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================err=================
+
+##EXTINF:-1 tvg-id="tcjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS070r7qx-L3ehGhWgvWNsPI0gjr_K1Tsvyk4UIcVBhdMwkIvzDchqvlg-r&s=10" group-title="VOD | ACTION MOVIE",TOM CLANCY’S JACK RYAN: GHOST WAR
+https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/01/11326/lidqaj37k1cy_h/index-v1-a1.m3u8?t=LkUX6E_xKq-FqiJALpGC2JAowIedctnfRzAPvy868d8&s=1782348194&e=10800&f=56630453&srv=1065&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="mk2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilWwbL7jFe-BL3SHupC-FH5ani9FT7kPcdOyzKP20Lw&s=10" group-title="VOD | ACTION MOVIE",MORTAL KOMBAT II (2026)
+https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/08/11336/92l94uilenks_h/index-v1-a1.m3u8?t=vnWSX8KbQm2DhZGtWt0fBKQuvoOvkfWmvhT9TjSCT6c&s=1782348119&e=10800&f=56684356&srv=1065&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="pskl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJfTFB5ZdQRYeV2ebqlZqCKHlRtj6P9NuZN9P5Mwq_0neoHA8Bn0X-CY&s=10" group-title="VOD | ACTION MOVIE",PASAKALYE
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/04/11244/fod7e5bzyetq_h/index-v1-a1.m3u8?t=DwtnIagxEKBTV9YjCTVgMpsCB7XhvWm14ANgNWWvyCY&s=1782348370&e=10800&f=56223658&srv=1070&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="tfb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdlpHtj8BVyhWRw_bMeBMh-are2WL2iYeFy9dct7kBHK6srQW7UhIf9I&s=10" group-title="VOD | ACTION MOVIE",THE FINAL BATTLE
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/11351/k1s2zcaoq3ng_h/index-v1-a1.m3u8?t=SNcQUokoIRBdbqGRW_QnVnYJ4Qg0WqZpgApzC90lUkY&s=1782347941&e=10800&f=56756637&srv=1070&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="fze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL26ZJE_Dik9JaDqdpw2eMCGP2BEEd_M9Dil7v6lteBPJI5vXMVtsLTWMhSelVid2YCu0J7cx7mk9_vHRRRpEwUMniWRjC2hxfJyDSQ&s=10" group-title="VOD | ACTION MOVIE",FUZE
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11383/ilpklu7adqto_h/index-v1-a1.m3u8?t=qv-vN1_eo5es8TP5cMbjPAerpfWAGoJAo1IWo8CZaGA&s=1782347692&e=10800&f=56918607&srv=1065&asn=&sp=4000&p=0
+
+
+========================================= ERR ===========================================
+
+
+##EXTINF:-1 tvg-id="twky" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
+##EXTINF:-1 tvg-id="smc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaeSiI7Y2Tp7tcX9YRwIwiVbxlaWEHw1ASKsV-RXW5A&s=10" group-title="VOD | ACTION MOVIE ",SNAKE 5: MONSTER CITY
+##EXTINF:-1 tvg-id="mxcl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",MEXICALI
+##EXTINF:-1 tvg-id="wm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgxgmX1qHmfTLd6q3nMwixlbw8StcPUF9mvClm6xPzBDszK8UE1h3VxP_&s=10" group-title="VOD | ACTION MOVIE",WAR MACHINE
+
+
+##EXTINF:-1 tvg-id="prst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUlnr-FctrJdqew9rxfD796purmMeECC3bks4v8E9DA&s" group-title="VOD | ACTION MOVIE",PARASAKTHI
+##EXTINF:-1 tvg-id="dtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_w7DLMuzAn8otLc025_i1f0R0rkx8nN9YOcU5ViH_ww&s=10" group-title="VOD | ACTION MOVIE",DHURANDHAR: THE REVENGE (2026)
+##EXTINF:-1 tvg-id="nwbfsn" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDJjZWYtMGI5MC00OTU0LThkZTEtNjEzODkyMDI5YTFhXkEyXkFqcGc@._V1_.jpg" group-title="VOD | ACTION MOVIE",NINJA WARS - BLACK FOX VS SHOGUN'S NINJA
+
+
+
+========================================== VOD KIDS ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTINF:-1 tvg-id="kpa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCU-uLlYGl4MuujE-QH6pcqh96fj6tB6ijHl8zKelrg&s=10" group-title="VOD | KIDS ANIMATION",KUNG FU PANDA
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kung%20Fu%20Panda.m3u8
+
+#EXTINF:-1 tvg-id="smgm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev1uW0S0fx0iu4T9uMmlyPdqftKugOJeFS0fHUpm9Dg&s=10" group-title="VOD | KIDS ANIMATION",SUPER MARIO GALAXY MOVIE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie.m3u8
+
+#EXTINF:-1 tvg-id="swp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKF-cLRVpdrnqnCRnAcOQxvvF8Jr-whFQNgcPM5A46Q&s=10" group-title="VOD | KIDS ANIMATION",SWAPPED
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/swp.m3u8
+
+#EXTINF:-1 tvg-id="tloatla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLwEJBb_dOEp5JQaPX4GJQRmq2Fem9SsEjUZWAbO6FA&s" group-title="VOD | KIDS ANIMATION",THE LEGEND OF AANG: THE LAST AIRBENDER
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Aang_%20The%20Last%20Airbender%20(1).m3u8
+
+#EXTINF:-1 tvg-id="nbd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVbT5w8bDF4ZUEZxhEvg5v0Eeb6DcLAjj0SwfaZeUAA&s=10" group-title="VOD | KIDS ANIMATION",NOBODY
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8
+
+#EXTINF:-1 tvg-id="hprs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_03JUNW2DY_QKIm2N2Nghm6uCNL3TQ4AdKuCcbrDTQ&s" group-title="VOD | KIDS ANIMATION",HOPPERS
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Hoppers.m3u8
+
+#EXTINF:-1 tvg-id="goat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkch6NBHC2BDkHWhTy5N96c5hOayZC9Y5tc13mzj7OzA&s=10" group-title="VOD | KIDS ANIMATION",GOAT
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/GOAT2.m3u8
+
+#EXTINF:-1 tvg-id="ctw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEPf2dNIMhU4DN6IuPMMwbTDD9V5LHTWXNrBp1h6yEQ&s" group-title="VOD | KIDS ANIMATION",CHARLIE THE WONDERDOG
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Charlie%20the%20Wonderdog21.m3u8
+
+#EXTINF:-1 tvg-id="afaa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugOr7Mt1QciaTT16M8U1GrdjgF6jThCo0x4PnJeFWMg&s=10" group-title="VOD | KIDS ANIMATION",AVATAR FIRE AND ASH (2025)
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Avatar_%20Aang%2C%20The%20Last%20Airbender%20(2026)1.m3u8
+
+#EXTINF:-1 tvg-id="asp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_30Zc8JA-SSYSwRXm0GETRpxBTVgdoPhiD9qwYxV6g&s=10" group-title="VOD | KIDS ANIMATION ",A SUPER PROGRESSIVE
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/A%20Super%20Progressive1.m3u8
+
+#EXTINF:-1 tvg-id="tsmsfs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLnc1cKbyrCLZXeD6gNF4JO6qSOCFqsVndsN83THk7Q&s=10" group-title="VOD | KIDS ANIMATION",THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20SpongeBob%20Movie_%20Search%20for%20SquarePants%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="rphd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctjqHBm1mAOfIqqtgH4q-D4lpHmMvT0APjVoTm4Tksg&s=10" group-title="VOD | KIDS ANIMATION",R.L. STINE’S PUMPKINHEAD (2025 )
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/R.L.%20Stine%E2%80%99s%20Pumpkinhead%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="tloh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPkI555LM6hmgJfdowq_peTt-nqqRXEYf72mnYbNbHg&s=10" group-title="VOD | KIDS ANIMATION",THE LEGEND OF HEI 2 (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Hei%202%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="anf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuG9Fj5syy2CjyMeraREF7VbON3782a2fy2nLJmHnqQ&s=10" group-title="VOD | KIDS ANIMATION",ANIMAL FARM (2026)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Animal%20Farm%20(2026).m3u8
+
+#EXTINF:-1 tvg-id="ddne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgiyYgznp_87hgiVQUpNknUjTHXKdwcJlJ8tx9Ex1sw&s=10" group-title="VOD | KIDS ANIMATION",DEATH DOES NOT EXIST (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Death%20Does%20Not%20Exist%20(2025).m3u8
 
 
 
