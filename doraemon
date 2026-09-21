@@ -3524,17 +3524,100 @@ halaman tidak tersedia
 
 
 
+
+
+
+
+
+
+
 #EXTM3U billed-msg=".", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24" https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
 
-git remote add origin https://github.com/sinatra846/COPYRIGHT.md.git
-git branch -M main
-git push -u origin main
+
+
+============================
+ASIAN GAMES AICHI NAGOYA 2026
+============================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",ASIAN GAMES AICHI NAGOYA 2026
+
+#EXTINF:-1 group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="840096" group-logo="https://i.imgur.com/0WKr4YP.png" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+##EXTINF:-1   group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="840096" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 A |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
+https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822074" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 02 A|15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
+https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="576060" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 02 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822077" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 A |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
+https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
+
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="576061" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822076" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 04 A |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
+https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
+
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580750" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 04 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+ 
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580751" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 05 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+ 
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580752" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 06 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 
 
 
 
+
+
+
+
+
+<====================LIVE EVENT 1===================================>
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+
+#EXTINF:-1 group-title="EVENT 021/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Belgia vs Republik Ceko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+
+
+
+
+<====================LIVE EVENT 2================================
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+
+#EXTINF:-1 group-title="EVENT 022/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 02:00 WIB Slovenia vs Serbia
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 
 
 //========================================================================
@@ -3650,6 +3733,9 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(nuHjWX7zXsZnKgn5JvxNGLOsjKCeLuNb-NMPP
 
 #EXTINF:-1 tvg-id="TransTV 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="CHANNEL | INDONESIA", TRANS TV |TRANSMEDIA|
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="CHANNEL | INDONESIA",TransTV HD 
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3898,239 +3984,14 @@ https://rplus.semar26.xyz/gtv.m3u8
 https://rplus.semar26.xyz/inews.m3u8
 
 
+==========
+DAERAH
+===========
 
 
+#EXTINF:-1 group-logo="https://i.imgur.com/7ay0SsG.jpeg",DAERAH
 
 
-
-============================
-ASIAN GAMES AICHI NAGOYA 2026
-============================
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",ASIAN GAMES AICHI NAGOYA 2026
-
-#EXTINF:-1 group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="840096" group-logo="https://i.imgur.com/0WKr4YP.png" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-##EXTINF:-1   group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="840096" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 A |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
-https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
-
-##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822074" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 02 A|15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
-https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
-
-#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="576060" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 02 |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822077" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 A |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
-https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
-
-#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="576061" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822076" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 04 A |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
-https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
-
-#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580750" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 04 |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
- 
-#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580751" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 05 |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
- 
-#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580752" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 06 |15 SEPT-04 OKT 2026|
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-
-
-
-
-<====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 15:40 WIB MotoGP Qualifying: Qatar Airways Grand Prix of Austria - MotoGP 2026 Round 15
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 19:30 WIB MotoGP Tissot SPRINT: Qatar Airways Grand Prix of Austria - MotoGP 2026 Round 15
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-<================================================>
-
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persebaya Surabaya vs Garudayaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel13.m3u8
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Bhayangkara vs Adhyaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel25.m3u8?wsSecret=6e598a864bcbc5ee1a7d19e01fc7d6fb&wsABSTime=1789841159
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Malut United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel20.m3u8
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Tottenham Hotspur vs Aston Villa
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Newcastle United vs Hull City
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Everton vs Ipswich Town
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brighton & Hove Albion vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Nottingham Forest vs Coventry City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 19:00 WIB Osasuna vs Rayo Vallecano
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Athletic Club vs Deportivo Alavés
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:30 WIB Celta de Vigo vs Racing Santander
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 20:00 WIB Udinese vs Cagliari
-#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://polsey1.xn--zlqv28l.shop/puk4/usergendx3j2x4tqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 20:00 WIB Bologna vs Torino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:00 WIB Roma vs Internazionale
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 23:30 WIB Stuttgart vs Borussia Dortmund
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 18:30 WIB Millwall vs West Ham United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 019/SEPTEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 21:00 WIB Wrexham vs Southampton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-
-
-
-
-
-
-
-
-
-<====================LIVE EVENT 2================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
-
-#EXTINF:-1 group-title="EVENT 020/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Sevilla vs Barcelona
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 020/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 01:45 WIB Venezia vs Lazio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 020/SEPTEMBER/2026" tvg-logo="https://shorter.me/87PxH", 0fu1:00 WIB Ajax vs Excelsior
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 ===>DAERAH START
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4239,6 +4100,20 @@ http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
+
+
+
+#EXTM3U billed-msg=".", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
+url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24" https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
+
+git remote add origin https://github.com/sinatra846/COPYRIGHT.md.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
 ==========
 HBO GROUP| UTAMA
 ==========
@@ -6466,6 +6341,12 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
+#EXTINF:-1 group-title="BOLA | BRI LIGA 1" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=766fcd6ed967d5becdb23d00e019532b&wsABSTime=1789925589
+
+
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -7288,6 +7169,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_c
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕GOLF 1 (Sky SPort Golf German)
 https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Golf1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",SKY SPORTS GOLF HD (20926)
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
+
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕GOLF CHANNEL 🇸🇰(257)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -11336,6 +11221,49 @@ VOD KOREA |OFF
 
 
 
+
+
+
+
+<=================== FIFA+ =============================>
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL FIFA+
+
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (English)
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (English/Alternate)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Argentina)
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Australia)
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (California)
+https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200008JG
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Canada)
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca/?X-Plex-Token=sC6pDoaykgamH1mDxxPQ
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (France)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Germany)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Hispanic America)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Italy)
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Mexico)
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Portuguese)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Spain)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (United States)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (United Kingdom)
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66628c68346b86608532dbcf/?X-Plex-Token=sC6pDoaykgamH1mDxxPQ
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (South Korea)
+https://afa7d3ea.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1rcl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="CHANNEL | FIFA+",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+
 ========================================== VOD KOREA ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
@@ -11751,6 +11679,8 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Animal
 
 #EXTINF:-1 tvg-id="ddne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgiyYgznp_87hgiVQUpNknUjTHXKdwcJlJ8tx9Ex1sw&s=10" group-title="VOD | KIDS ANIMATION",DEATH DOES NOT EXIST (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Death%20Does%20Not%20Exist%20(2025).m3u8
+
+
 
 
 
