@@ -350,7 +350,6 @@
 
 
 
-
 🕷️🕸️ NONONO 🕸️🕷️
 ^-^ ประเทศไทยรักอินโดนีเซีย
 🕷️🕸️ NANANA 🕸️🕷️
@@ -3581,72 +3580,72 @@ https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/ma
 <==================== LIVE EVENT 1 ===================================>
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" group-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT - SERVER UTAMA
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 12:55 WIB MotoGP Practice: Motul Grand Prix of Japan - MotoGP 2026 Round 16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+<================================================>
+
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Pakistan vs Iran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.m3u8
+
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Kazakhstan vs Taiwan
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
+
+<================================================>
+
+XTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/yKOXu", 15:00 WIB Thailand vs Filipina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT - SERVER UTAMA INDO
-https://shorter.me/INDOSIAR
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/yKOXu", 15:00 WIB Vietnam vs Pakistan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥𝟬𝟭 𝗢𝗞𝗧 𝟭𝟵;𝟯𝟬 𝗪𝗜𝗕 - 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔 𝗩𝗦 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛 |DIVISI 1 GROUP A- GBK JKT| Nick
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
+<================================================>
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥𝟬𝟭 𝗢𝗞𝗧 𝟭𝟵;𝟯𝟬 𝗪𝗜𝗕 - 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔 𝗩𝗦 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛 |DIVISI 1 GROUP A- GBK JKT| Pepsi
-https://live05.meung.app/live/59444581.m3u8
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB Vietnam vs Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel33.flv
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥𝟬𝟭 𝗢𝗞𝗧 𝟭𝟵;𝟯𝟬 𝗪𝗜𝗕 - 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔 𝗩𝗦 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛 |DIVISI 1 GROUP A- GBK JKT| Saitama
-http://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Jepang vs China
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-BDG| Revive
-https://live05.meung.app/live/33982309.m3u8
+<================================================>
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-BDG| Brady
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 21:00 WIB Kazakhstan vs Moldova
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-GBK JKT|
-https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Latvia vs Montenegro
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 
-===============================>
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT 01/OKTOBER/2026" event-duration="4",📌INDONESIA VS BANGLADESH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=uDHMIZZF5mY
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 23:00 WIB Siprus vs Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT 01/OKTOBER/2026",🆕Channel 5  (🚀25926)
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT 01/OKTOBER/2026",T Sport
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT 01/OKTOBER/2026",Indosiar
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
 
-================================>
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB Indonesia vs Philippines
-#EXTVLCOPT:http-origin=https://player.787200.com/
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-10-5374579.m3u8?txSecret=9c4ffba6876e16560f4b0eb52b187551&txTime=6ABE4679
 
-#EXTINF:-1 tvg-id="FIFA MATCH DAY" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://i.imgur.com/DNKeNqh.png", 21:00 WIB - UZBEKISTAN VS SURIAH | FIFA INTERNATIONAL FRIENDLY| Jean
-https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥23;00 WIB - AZERBAIJAH VS LIECHTENSTEIN |UEFA NATIONS LEAGUE| Socc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
 
 
 
@@ -3655,7 +3654,33 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 <==================== LIVE EVENT 2 ================================
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥01;45 WIB - JERMAN VS SERBIA |UEFA NATIONS LEAGUE| Bei3
+EXTINF:-1 group-title="EVENT 03/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Bosnia Herzegovina vs Swedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 03/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Hungaria vs Georgia
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+EXTINF:-1 group-title="EVENT 03/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Ukraina vs Irlandia Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
+
+EXTINF:-1 group-title="EVENT 03/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Belgia vs Turki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+EXTINF:-1 group-title="EVENT 03/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 01:45 WIB Perancis vs Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3663,28 +3688,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥01;45 WIB - YUNANI VS BELANDA |UEFA NATIONS LEAGUE| Bei2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥01;45 WIB - DENMARK VS PORTUGAL |UEFA NATIONS LEAGUE| Bei1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥01;45 WIB - WALES VS NORWEGIA |UEFA NATIONS LEAGUE| Spo 3
-http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179124
-
-#EXTINF:-1 tvg-id="UEFA NL" group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png", 🔥01;45 WIB - IRLANDIA VS AUSTRIA |UEFA NATIONS LEAGUE| Mon
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 
 
@@ -3693,59 +3696,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 
 <====================FIFA ASEAN CUP================================>
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASEAN CUP
+EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/f_YMT4rkXVieDEVLrhi3Ual_4rw=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355613/original/081536200_1790137907-fifa_asean_1.jpg", FIFA ASEAN CUP
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" group-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT - SERVER UTAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT - SERVER UTAMA INDO
-https://shorter.me/INDOSIAR
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥𝟬𝟭 𝗢𝗞𝗧 𝟭𝟵;𝟯𝟬 𝗪𝗜𝗕 - 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔 𝗩𝗦 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛 |DIVISI 1 GROUP A- GBK JKT| Nick
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥𝟬𝟭 𝗢𝗞𝗧 𝟭𝟵;𝟯𝟬 𝗪𝗜𝗕 - 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔 𝗩𝗦 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛 |DIVISI 1 GROUP A- GBK JKT| Pepsi
-https://live05.meung.app/live/59444581.m3u8
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 🔥𝟬𝟭 𝗢𝗞𝗧 𝟭𝟵;𝟯𝟬 𝗪𝗜𝗕 - 𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔 𝗩𝗦 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛 |DIVISI 1 GROUP A- GBK JKT| Saitama
-http://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-BDG| Revive
-https://live05.meung.app/live/33982309.m3u8
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-BDG| Brady
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-asean-cup.ba11b7de.png", 01 OKT 19;30 WIB - MALAYSIA VS SINGAPURA |DIVISI 1 GROUP A-GBK JKT|
-https://v-s3.sindonews.com/myvid/etc/preload/hls/preload.m3u8
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
-
-===============================>
-
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS BANGLADESH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=uDHMIZZF5mY
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="FIFA ASEAN CUP 2026",🆕Channel 5  (🚀25926)
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
-
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="FIFA ASEAN CUP 2026",T Sport
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="FIFA ASEAN CUP 2026",🆕MOJI SPORT (VD)
-https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
-
-#EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="FIFA ASEAN CUP 2026",🆕MOJI 6
-https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
 
 
 
@@ -3859,7 +3814,59 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://vidsemar.pages.dev/terraluna2/205.mpd
 
 ==================PIALA PRES==============
+===========================================
 
+EDITED
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=001
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",🆕RCTI (🚀24926)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=002
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",🆕MNCTV (🚀24926)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=003
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🆕GTV (🚀24926)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=004
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="INEWS" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",🆕INEWS (🚀24926)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=005
+#EXTINF:-1 tvg-id="Sindo.News.TV.id" tvg-name="SINDONEWS" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL",🆕SINDONEWS (🚀24926)
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 ===========================================
 
@@ -4221,7 +4228,6 @@ DAERAH
 #EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
-
 ===>DAERAH START
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -4329,8 +4335,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
-
-
 ==========
 HBO GROUP| UTAMA
 ==========
@@ -4351,65 +4355,74 @@ LOGO LAMA https://i.imgur.com/0GiICTY.jpeg
 
 
 =================================================================
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO FHD (OHB)
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO SIGANTURE FHD (OHB)
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO HITS FHD (OHB)
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO FAM FHD (OHB)
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", CINEMAX (OHB)
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", OHB FHD (UJI COBA)(OHB)
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
-#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO FHD (UJI COBA)
-https://ott.djdoolky76.io/api/streams/162/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 tvg-id="402" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO Hits HD with Chinese Subtitles (UJI COBA)
-https://ott.djdoolky76.io/api/streams/165/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO Hits 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-id="403" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",  HBO Family HD (UJI COBA)
-https://ott.djdoolky76.io/api/streams/164/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO Family 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO Signature (with Chinese Subtitles)(UJI COBA)
-https://ott.djdoolky76.io/api/streams/163/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBOSig" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO Signature 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+=============
 
-#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",Cinemax HD (UJI COBA)
-https://ott.djdoolky76.io/api/streams/166/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN🇹🇼
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+
 
 
 =================================================================
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO (NON SUB)
-http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="ID: Cinemax" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO",ID: Cinemax (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302227
-#EXTINF:-1 tvg-id="ID: HBO" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO",ID: HBO (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302248
-#EXTINF:-1 tvg-id="ID: HBO Family" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO",ID: HBO Family (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
-#EXTINF:-1 tvg-id="ID: HBO HITS" tvg-name="ID: HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO",ID: HBO HITS (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302250
-#EXTINF:-1 tvg-id="ID: HBO Signature" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO",ID: HBO Signature (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302251
+=================================================================
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO", HBO ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO", HBO Family ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO (NON SUB)🚫 🇻🇳
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO", HBO Hits ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM", HBO ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO", HBO Signature ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM", HBO Family ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO", Cinemax ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM", HBO Hits ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM", HBO Signature ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO;FILM", Cinemax ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 
 ====
@@ -4920,51 +4933,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 
 ===============================================================================================================
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM",HBO (NON SUB)
-http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="ID: Cinemax" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="FILM",ID: Cinemax (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302227
-#EXTINF:-1 tvg-id="ID: HBO" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM",ID: HBO (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302248
-#EXTINF:-1 tvg-id="ID: HBO Family" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="FILM",ID: HBO Family (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
-#EXTINF:-1 tvg-id="ID: HBO HITS" tvg-name="ID: HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="FILM",ID: HBO HITS (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302250
-#EXTINF:-1 tvg-id="ID: HBO Signature" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="FILM",ID: HBO Signature (0️⃣)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302251
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM", HBO ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="FILM", HBO Family ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="FILM", HBO Hits ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="FILM", HBO Signature ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="FILM", Cinemax ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
-
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM",HBO (2️⃣)
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
-http://013tv.com:8080/F33848/cbd9779b/306484
-http://013tv.com:8080/F33848/cbd9779b/197972
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="FILM",HBO HITS (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/306486
-http://013tv.com:8080/F33848/cbd9779b/196480
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="FILM",HBO SIGNATURE (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/306483
-http://ikitv.sqn.at:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="FILM",HBO FAMILY (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/197972
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="FILM",CINEMAX (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/197964
 ===============================================================================================================
 originals cover https://i.imgur.com/kSNGK5D.jpeg
 Buddy Star cover https://i.imgur.com/kSNGK5D.jpeg
@@ -5135,13 +5104,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 
 HITS NOW Cover  https://i.imgur.com/7mZwDie.jpeg
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS HD (NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/182/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0  tvg-logo="https://i.imgur.com/A58Jd0u.jpeg" group-title="FILM",HITS MOVIES(NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/229/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0 tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS NOW (NON SUB) (💫14926)
-https://ott.djdoolky76.io/api/streams/181/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-==========
+
 
 HITS GROUP INDO=========
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8573,7 +8536,57 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 
 
 
-BEIN INDO --> tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | ",BEIN SPORTS 1 (🚀9926)
+BEIN INDO --> tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 1 (🚀9926)
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https\://www\.visionplus.id&referer=https\://www\.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https\://dusk.biz.id/rpl/drm.php?id=122
+#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 1 (🏆AIOS 🇮🇩)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https\://www\.visionplus.id&referer=https\://www\.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https\://dusk.biz.id/rpl/drm.php?id=123
+#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 2 (🏆AIOS 🇮🇩)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https\://www\.visionplus.id&referer=https\://www\.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https\://dusk.biz.id/rpl/drm.php?id=124
+#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 3 (🏆AIOS 🇮🇩)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https\://www\.visionplus.id&referer=https\://www\.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https\://dusk.biz.id/rpl/drm.php?id=125
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.id" tvg-name="beIN Sports 4" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 4 (🏆AIOS 🇮🇩)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https\://www\.visionplus.id&referer=https\://www\.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https\://dusk.biz.id/rpl/drm.php?id=126
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 5 (🏆AIOS 🇮🇩)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | SERIE A;BOLA | LALIGA ;BOLA | BUNDESLIGA",Eleven Sports 1
 https://ott.djdoolky76.io/api/streams/307/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
@@ -8617,17 +8630,7 @@ https://ott.djdoolky76.io/api/streams/151/manifest.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1",Arena Sport Premium 5(💫14926)
 https://ott.djdoolky76.io/api/streams/152/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
-----HBO
-#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Family (NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/164/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO HD (NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/162/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Hits (NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/165/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",HBO Signature (NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/163/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="HBO;FILM",Cinemax (NON SUB) (💫14926) 
-https://ott.djdoolky76.io/api/streams/166/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
 ====================================================================================================================================================================
 ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
 ============================================================ALLINONEBAR=============================================================================================
@@ -10561,6 +10564,441 @@ VOD KOREA |OFF
 
 
 
+
+
+========================================== VOD KOREA ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTM3U
+#EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="VOD | KOREAN MOVIE",HUMINT(2026)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/HUM.m3u8
+#EXTINF:-1 tvg-id="mnts12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BQyfmS-U22fZe8laoPW8AmrwOa8nk7hrzNd_acrCnw&s=10" group-title="VOD | KOREAN MOVIE",MANTIS
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MAN1.m3u8
+#EXTINF:-1 tvg-id="tkw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9wUuL5fwnnxi9du0oeoJRWlFe5GFbmP40D2HmYIW5u5PNslffh3ECqM&s=10" group-title="VOD | KOREAN MOVIE ",THE KING’S WARDEN
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20King%E2%80%99s%20Warden2.m3u8
+#EXTINF:-1 tvg-id="py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABnm-gg8y_ZIGV-SY8W61fxlXkkHvtEyJjukY8Kv9w&s=10" group-title="VOD | KOREAN MOVIE ",PROJECT Y
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PROJECT%20Y%203.m3u8
+#EXTINF:-1 tvg-id="tu" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-8224t-mh25pufv14i37c" group-title="VOD | KOREAN MOVIE ",THE UGLY
+https://pixeldrain.com/api/file/dhVuQptM?download
+#EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
+https://pixeldrain.com/api/file/eCQmmExF?download
+#EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
+https://pixeldrain.com/api/file/wLbZkiv3?download
+#EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
+https://pixeldrain.com/api/file/DXnyTY5J?download
+#EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
+https://pixeldrain.com/api/file/KVx1XLSV?download
+#EXTINF:-1 tvg-id="sgr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GfMORRTU7IUaBVZB_cWqrb41MKPVn3kCwrP8un9-2w&s=10" group-title="VOD | KOREAN MOVIE ",SUGAR
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SUGAR3.m3u8
+#EXTINF:-1 tvg-id="twol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXFceXJrZcxOOvpVIDPWouHv0S7thyNAn62CSTYyjOg&s=10" group-title="VOD | KOREAN MOVIE ",THE WORLD OF LOVE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20World%20of%20Love3.m3u8
+#EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI2.m3u8
+#EXTINF:-1 tvg-id="clny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFd3GErzAVpEskY9BZwSX5yNgJ4aSAPs9jOGNhv_y9w&s" group-title="VOD | KOREAN MOVIE",COLONY
+https://pixeldrain.com/api/file/2pSX7nYG?download
+#EXTINF:-1 tvg-id="sstr" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/2/7/8/2/7/5/1278275-sister-2026-0-230-0-345-crop.jpg?v=6e0527c44e" group-title="VOD | KOREAN MOVIE",SISTER
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SISTER.m3u8
+#EXTINF:-1 tvg-id="mdiaz" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2YjMxNjQtY2ZlOC00Nzg5LWI5YjUtMWVhMzY4YWZmNmE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",MY DAUGHTER IS A ZOMBIE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/My%20Daughter%20is%20a%20Zombie%20(2025)_.m3u8
+#EXTINF:-1 tvg-id="thf" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Poster_film_The_Great_Flood.png" group-title="VOD | KOREAN MOVIE",THE GREAT FLOOD
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20GREAT%20FLOOD.m3u8
+
+
+
+========================================== ERR ===========================================
+
+##EXTINF:-1 tvg-id="nom" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Number_One_film_poster.jpg/250px-Number_One_film_poster.jpg" group-title="VOD | KOREAN MOVIE",NUMBER ONE
+##EXTINF:-1 tvg-id="onlygod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Only_God_Knows_Everything_poster.jpg/250px-Only_God_Knows_Everything_poster.jpg" group-title="VOD | KOREAN MOVIE",ONLY GOD KNOWS EVERYTHING
+##EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
+##EXTINF:-1 tvg-id="eildftwt" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31896285_v_v8_ab.jpg" group-title="VOD | KOREAN MOVIE",Even if This Love Disappears from the World Tonight (2025)
+##EXTINF:-1 tvg-id="stream10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWTAYUPoKIO4-5kTDJYJuy8v-l4Lt-Skm0cuY3ku1A&s=10" group-title="VOD | KOREAN MOVIE",Streaming ( 2025 )
+##EXTINF:-1 tvg-id="oncewewere" tvg-logo="https://cdns.klimg.com/resized/670x/p/paging/film-once-we-were-us-2026-sinopsis-1-8392b.jpg" group-title="VOD | KOREAN MOVIE",Once We Were Us (2026)
+##EXTINF:-1 tvg-id="noparking" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3ODg3ZjMtNDYzYi00MmYxLTg3MDgtMTFlYzI4ZGQwNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",NO PARKING ( 2025 )
+
+
+
+========================================== VOD INDONESIA ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",SADALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-musuh-dalam-selimut-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",MUSUH DALAM SELIMUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmusuhDalam-Selimut1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3zP_qB1uNqQ/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",UANG PASSOLO - AMPLOP KONDANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDuang-Passolo.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/12/06/32923-poster-film-wasiat-warisan-instagramcomfilm-wasiatwarisan.jpg" group-title="VOD | INDONESIAN MOVIE",WASIAT WARISAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwasiat-Warisan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO4l2zUeL84/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmertuaNgeri-Kali.m3u8
+#EXTINF:-1 tvg-logo="https://www.inibalikpapan.com/wp-content/uploads/2025/10/54899-film-air-mata-mualaf-instagram.webp" group-title="VOD | INDONESIAN MOVIE",AIR MATA MUALAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDairMata-Mualaf.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-sampai-titik-terakhirmu-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",SAMPAI TITIK TERAKHIRMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsampaiTitik-Terakhirmu.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/11/30/24386-foto-teaser-film-legenda-kelam-malin-kundang.jpg" group-title="VOD | INDONESIAN MOVIE",MALIN KUNDANG (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmalin-Kundang.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YZ95gKwbeAc/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",GAK NYANGKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDgak-Nyangka.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZBfAWdV_m-M/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LOSMEN BU BROTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlosmen-BuBroto.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tHO7uDPXAXE/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEMUSIM SETELAH KEMARAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsemusimSetelah-Kemarau.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaylo.id/wp-content/uploads/2025/10/The-Period-of-her-Cover.jpg" group-title="VOD | INDONESIAN MOVIE",THE PERIOD OF HER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDThePeriod-OfHer.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LXRnwwpXz6s/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KAKA BOSS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkaka-Bos.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/48b12d297087ee9d94504ac7007f042d9b5b0654b1e3913ac5cfe73ff42cc221.png" group-title="VOD | INDONESIAN MOVIE",YOWIS BEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyowis-Ben2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-cocote-tonggo-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",COCOTE TONGGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VhWZK7kD-t5NDffiKzLhG8DzQC8=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/50708/0f3377.jpg" group-title="VOD | INDONESIAN MOVIE",GJLS: IBUKU IBU IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDGjls-ibuku-IbuIbu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m52r8kXdfBs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",CINTA TAK SEINDAH DRAMA KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121759
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E5Jdw9alAKM/mqdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SURGA DI TELAPAK KAKI BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121473
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/soqYtgjfzFk/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",HIDUP INI TERLALU BANYAK KAMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121409
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qa1YwXc9K8d2i6yww8vP3js9vpU=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/11721/angel-pol-837a40.png" group-title="VOD | INDONESIAN MOVIE",ANGEL POOLLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=129411
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-tak-ingin-usai-di-sini-2025_600_880.webp" group-title="VOD | INDONESIAN MOVIE",TAK INGIN USAI DI SINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126285
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u7SRMGoJ9b9TsVtKm5WRvVz-bjo=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8865733/mendadak-dangdut_upload-979150.jpg" group-title="VOD | INDONESIAN MOVIE",MENDADAK DANGDUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadak-Dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/api/wm/2023/09/25/poster-film-imam-tanpa-makmum_169.jpeg?w=1200" group-title="VOD | INDONESIAN MOVIE",IMAM TANPA MAKMUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=106724
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrSiTa_Kiwg/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SAH: KATA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=124261
+#EXTINF:-1 tvg-logo="https://img.merahputih.com/media/cc/ae/a6/ccaea608cb6507fa0d6af372d8c65073.jpg" group-title="VOD | INDONESIAN MOVIE",SERIBU BAYANG PURNAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=135434
+#EXTINF:-1 tvg-logo="https://gayatekno.id/wp-content/uploads/2024/06/images-4-1.jpeg" group-title="VOD | INDONESIAN MOVIE",SEKAWAN LIMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s6Kz_94zdHQ/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KUN ANA WA ANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=113967
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01jxv9vw5dx1dze9bz55pkggcc.jpg" group-title="VOD | INDONESIAN MOVIE",JODOH 3 BUJANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126981
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5DbFY0Fq-Vs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LEBIH DARI SELAMA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=127488
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLjzzjfwwvg/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",PANGGIL AKU AYAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=128955
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/u6B4OIoT4lnWqIxy3lEEVcnleY4.jpg", group-title="VOD | INDONESIAN MOVIE",5 CM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/s/m64grw66otbicfw/5cm.%282012%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xlvSRI6t_PU/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEBELUM DIJEMPUT NENEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsebelum-DijemputNenek.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="VOD | INDONESIAN MOVIE",SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="VOD | INDONESIAN MOVIE",SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+#EXTINF:-1 tvg-logo="bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp">https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="VOD | INDONESIAN MOVIE",MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="VOD | INDONESIAN MOVIE",KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen01.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/26/3231857517.jpg" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpesugihan-SateGagak01.m3u8
+#EXTINF:-1 tvg-id="idmp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Mwmc7oAeR-obt9nWviM-Ck9QhJzzP5mIGg&s" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sore%2C%20Istri%20Dari%20Masa%20Depan.m3u8
+#EXTINF:-1 tvg-id="stt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5LINiFoxsgYcC64dB6En-qw14f2OyZNm09BQLSrH&s" group-title="VOD | INDONESIAN MOVIE ",SAMPAI TITIK TERAKHIRMU
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sampai%20Titik%20Terakhirmu.m3u8
+#EXTINF:-1 tvg-id="dbi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvTNlc989yqLkIpkXbgdMrSIn578B7lSNcz3ysD8EAg&s" group-title="VOD | INDONESIAN MOVIE",DIA BUKAN IBU (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dia%20Bukan%20Ibu%20(2025).m3u8
+#EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="VOD | INDONESIAN MOVIE",13 BOMB DI JAKARTA
+https://pixeldrain.com/api/file/ezqDwxkK?download
+#EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGuoL8zAZDlf0v9ut47HLFPfiEKSF6z_nboQlKVTUnnmxlI4lXyvw35M&s=10" group-title="VOD | INDONESIAN MOVIE",LAYANGAN PUTUS THE MOVIE
+https://pixeldrain.com/api/file/6fwxFxx9?download
+#EXTINF:-1 tvg-id="auto.mohon.doa.restu" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/Poster_MDR.jpg" group-title="VOD | INDONESIAN MOVIE ",MOHON DOA RESTU
+https://pixeldrain.com/api/file/fNKYLoB8?download
+#EXTINF:-1 tvg-id="auto.surga.di.bawah.langit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Yll3zF2BJKQnk-BYsPpwMa3Bj1aLWCyU9TInYcOmdYBzgz92Rud65WxjjMdVaK0XSVS9SzeFRlDzi8Lrc5PQepzdTy2PAeeslwb2gWU&s=10" group-title="VOD | INDONESIAN MOVIE",SURGA DI BAWAH LANGIT
+https://pixeldrain.com/api/file/wbFWgdQ1?download
+#EXTINF:-1 tvg-id="auto.agak.laen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Agak_Laen_film_poster.jpg/250px-Agak_Laen_film_poster.jpg" group-title="VOD | INDONESIAN MOVIE",AGAK LAEN
+https://pixeldrain.com/api/file/st9vqZYF?download
+#EXTINF:-1 tvg-id="auto.algrafi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9d/1015066-algrafi-0-1000-0-1500-crop.jpg/250px-1015066-algrafi-0-1000-0-1500-crop.jpg" group-title="VOD | INDONESIAN MOVIE",ALGRAFI
+https://pixeldrain.com/api/file/QXa6Czx5?download
+#EXTINF:-1 tvg-id="auto.ali.topan" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/19/Poster_Ali_Topan_%282023%29.jpg/250px-Poster_Ali_Topan_%282023%29.jpg" group-title="VOD | INDONESIAN MOVIE",ALI TOPAN
+https://pixeldrain.com/api/file/MkWPhQ5s?download
+#EXTINF:-1 tvg-id="auto.ancika" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32WN9epalvDpOW0i18gh6vKq8a7vYtjZKquj7KxCj2g&s=10" group-title=" VOD | INDONESIAN MOVIE",ANCIKA
+https://pixeldrain.com/api/file/owtfAL5s?download
+#EXTINF:-1 tvg-id="auto.ayo.balikan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUwNzJlMTItOTAxNy00YTBiLTk3YTAtMjYzZGI5ZWFlNDhjXkEyXkFqcGc@._V1_.jpg" group-title="VOD | INDONESIAN MOVIE",AYO BALIKAN
+https://pixeldrain.com/api/file/VxqRRQ1B?download
+#EXTINF:-1 tvg-id="auto.bu.tejo.sowan.jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f3/Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg/250px-Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg" group-title="VOD | INDONESIAN MOVIE",BU TEJO SOWAN JAKARTA
+https://pixeldrain.com/api/file/tzav6YZV?download
+#EXTINF:-1 tvg-id="auto.cek.ombak.lagi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh9qZi7ziUeKAGJWjsPkEJiT7xVt4qpW25tDUBO-p-gmVvDDSVArSpHA&s=10" group-title="VOD | INDONESIAN MOVIE ",CEK OMBAK ( LAGI )
+https://pixeldrain.com/api/file/zUBcXqQw?download
+#EXTINF:-1 tvg-id="auto.demi.si.buah.hati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xYyTNpRJUyTo-39aJaxtquupt_871CKvLe92cUvV7UyY3OH0R4IxzDVy10n0Ip-_zIBTTXawTdFGl0jcj41z3Kb3ouOCkBPTSDYRG1Y&s=10" group-title="VOD | INDONESIAN MOVIE",DEMI SI BUAH HATI
+https://pixeldrain.com/api/file/c57W6uEZ?download
+#EXTINF:-1 tvg-id="auto.dinda" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2c/Poster_Dinda_%282024%29.jpg/250px-Poster_Dinda_%282024%29.jpg" group-title="VOD | INDONESIAN MOVIE",DINDA
+https://pixeldrain.com/api/file/j1HPSh9x?download
+#EXTINF:-1 tvg-id="auto.kereta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uKvCVIObPI6MBueY7YBPqjQu4YokVqOz-9u6Idz-f2yw1-Niq8oUo5WK&s=10" group-title="VOD | INDONESIAN MOVIE",KERETA
+https://pixeldrain.com/api/file/oCpSqqah?download
+#EXTINF:-1 tvg-id="auto.ali.topan" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/0/7/9/6/8/9/1079689-melukis-luka-0-230-0-345-crop.jpg?v=f808c75fd0" group-title="VOD | INDONESIAN MOVIE",MELUKIS LUKA
+https://pixeldrain.com/api/file/nXDb1hSE?download
+#EXTINF:-1 tvg-id="auto.mukidi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | INDONESIAN MOVIE",MUKIDI
+https://pixeldrain.com/api/file/xDtZjqYB?download
+
+
+
+
+======================================== VOD ACTION ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-penance-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Penance
+https://stream.playcdn.de/playlist/39206641f0d8c711eb0668ff6b040769/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/04/film-thor-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thor
+https://stream.playcdn.de/playlist/464cbd7cdac95fc19b57ded291c41426/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-man-war-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Man of War
+https://stream.playcdn.de/playlist/7c79e006f63c089e7d60a3bfebc52244/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-minions-monsters-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Minions & Monsters
+https://stream.playcdn.de/playlist/743dbbdc501809c146833430c66de467/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-captain-america-the-winter-soldier-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: The Winter Soldier
+https://stream.playcdn.de/playlist/53b6ee95422e9aed12a39c765810b73e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/06/film-blades-guardians-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Blades of the Guardians
+https://stream.playcdn.de/playlist/5cbf6795d352c0727fa650959d0eb429/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-death-robin-hood-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Death of Robin Hood
+https://stream.playcdn.de/playlist/b3d49b2a3681d8a1edddd97758a95cdf/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2022/08/film-thirteen-lives-2022-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thirteen Lives
+https://stream.playcdn.de/playlist/f0cf560eb9b5dc83f7f6f9076ca48934/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/03/film-once-we-us-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Once We Were Us
+https://stream.playcdn.de/playlist/d85690f883368e7255051242b19bde4c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2024/04/film-exhuma-2024-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Exhuma
+https://stream.playcdn.de/playlist/9c22520ca6320733621164cd05c46d0c/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-captain-america-the-first-avenger-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: The First Avenger
+https://stream.playcdn.de/playlist/a00a77b725db40863099ab4ead323f15/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-interstellar-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Interstellar
+https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-debt-collector-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Debt Collector
+https://stream.playcdn.de/playlist/4b09f31be5a0924014b466e583a6e7f3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-backrooms-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Backrooms
+https://stream.playcdn.de/playlist/fcdd16b0d7673dd1dc3ae22a156f11ee/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gayong-2-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Gayong 2
+https://stream.playcdn.de/playlist/ead40f0fcbd6d44b5dae6fa91051d6e0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-agent-shaan-elite-pursuit-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Agent Shaan Elite Pursuit
+https://stream.playcdn.de/playlist/0d69bb97d76c259b7990a8b86948c4e1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-star-wars-mandalorian-grogu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Star Wars: The Mandalorian and Grogu
+https://stream.playcdn.de/playlist/97068cacc08f1a644050a3934b8d34f5/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-shelter-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shelter
+https://stream.playcdn.de/playlist/aade3f796963ed292fd94b014559e03d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/02/film-wrecking-crew-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Wrecking Crew
+https://stream.playcdn.de/playlist/17abf94232adfa20b088fcbaf9ad05f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-son-sara-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Son of Sara
+https://stream.playcdn.de/playlist/198f060e86c0cbc83f10ef3b053a33cd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Wrath of Man
+https://stream.playcdn.de/playlist/6fc40f67c3979f49df1e124ba46e7ec0/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-disclosure-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Disclosure Day
+https://stream.playcdn.de/playlist/a9dd119abae8c4189dadf957b13ccec0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-masters-universe-2026-1-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Masters of the Universe
+https://stream.playcdn.de/playlist/1c05ce0aed1b73a6f8295a270cfd6713/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-lee-cronins-mummy-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lee Cronin's The Mummy
+https://stream.playcdn.de/playlist/9dcb869e18f971fec28f2b4903a6c24f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-run-2025-1-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Run
+https://stream.playcdn.de/playlist/e1402e6e2afbbb5987cf658e311947f1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-project-hail-mary-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Project Hail Mary
+https://stream.playcdn.de/playlist/f9dc1e3abe0f4abacb40b7b235c56d99/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-furious-2025-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Furious
+https://stream.playcdn.de/playlist/e8c0fe26202f0c6592faafea25e2ed6c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/06/film-spider-man-across-the-spider-verse-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Across the Spider-Verse
+https://stream.playcdn.de/playlist/4a2180a34789a413c7464cddb433390e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/08/film-bu-feng-zhui-ying-2025-lk21-4.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Shadow's Edge (Bu feng zhui ying aka)
+https://stream.playcdn.de/playlist/f70b8fd5e42fe54ee94f32300610430b/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-hustle-2004-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Hustle
+https://stream.playcdn.de/playlist/115ed6403f36e0e7c8d2141560515046/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns
+https://stream.playcdn.de/playlist/8dab345a1b7fc29ee141e12d4a1c3885/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-legend-aang-last-airbender-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avatar Aang: The Last Airbender
+https://stream.playcdn.de/playlist/0b438d80baa57f1c409f794a98167997/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-avengers-age-of-ultron-2015.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Age of Ultron
+https://stream.playcdn.de/playlist/939521bfedc9b8c88957e5810ed25da6/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-jackass-best-last-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Jackass: Best and Last
+https://stream.playcdn.de/playlist/7ea32cde50b55e0d28df4953fb2cf9cf/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-devils-mouth-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Devil's Mouth
+https://stream.playcdn.de/playlist/681a2ce7f59f23b412aa72f159c68e6d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-eyes-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Eyes
+https://stream.playcdn.de/playlist/f09725e7485c9bb6f51ff0d2d16c0c90/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lenin-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lenin
+https://stream.playcdn.de/playlist/c8cc736de916a72ed375ff89e36c2274/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gentleman-thief-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Gentleman Thief
+https://stream.playcdn.de/playlist/789be48b523ff7e3f5cdd03d4bc1e556/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Fantastic Four: First Steps
+https://stream.playcdn.de/playlist/c04520ada6ec9849fd8ea7df1f436eb1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thunderbolts*
+https://stream.playcdn.de/playlist/e16a3452d86ceee7610550aab1fa0f85/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/05/film-punisher-one-last-kill-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Punisher: One Last Kill
+https://stream.playcdn.de/playlist/771d4fc7f4f4f74ffe170bffea109d53/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-odyssey-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Odyssey
+https://stream.playcdn.de/playlist/6d120519f4a4dd1fdf60b65b1886ac62/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-supergirl-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Supergirl
+https://stream.playcdn.de/playlist/cdd5c4e9db57eef9843c3946b5c34aeb/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-amazing-spider-man-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Amazing Spider-Man
+https://stream.playcdn.de/playlist/dd5958147c92d25fbeae52026f11061f/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-soccer-gong-fu-nv-zu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Soccer: Gong fu nv zu
+https://stream.playcdn.de/playlist/22641f858468626d2e4bdd173218e1b0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/07/film-spider-man-homecoming-2017.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Homecoming
+https://stream.playcdn.de/playlist/61d1356baaa19c7ae8f39bdba894b521/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-amazing-spider-man-2-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Amazing Spider-Man 2
+https://stream.playcdn.de/playlist/4592a14b2528e00dd534b8ac733f04df/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/05/film-captain-america-civil-war-2016.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: Civil War
+https://stream.playcdn.de/playlist/bcf9c2887536bb867817497de8bd96f1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/07/film-spider-man-far-from-home-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Far from Home
+https://stream.playcdn.de/playlist/a0ed2e8bc29f83e77185627212e7120f/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-avengers-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Avengers
+https://stream.playcdn.de/playlist/b14821bcf0dbeb2a43bf05c0ac085fe4/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-all-that-we-never-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", All That We Never Were
+https://stream.playcdn.de/playlist/1d8460e74976f9fb54bb404018b96f69/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-malaikat-malam-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Malaikat Malam
+https://stream.playcdn.de/playlist/c6d875655602458abbe4e353e2f5b4f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
+https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
+https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
+https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
+https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
+https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
+https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
+https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
+https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
+https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
+https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
+https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-deep-water-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Deep Water
+https://stream.playcdn.de/playlist/ace88b4f6afc788c96ed56c7f3c080d1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-14-peaks-nothing-is-impossible-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", 14 Peaks: Nothing Is Impossible
+https://pixeldrain.com/api/file/fGc4XLNS?download
+
+
+
+
+
+
+
+
+
+
+=================err=================
+
+##EXTINF:-1 tvg-id="tcjr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS070r7qx-L3ehGhWgvWNsPI0gjr_K1Tsvyk4UIcVBhdMwkIvzDchqvlg-r&s=10" group-title="VOD | ACTION MOVIE",TOM CLANCY’S JACK RYAN: GHOST WAR
+https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/01/11326/lidqaj37k1cy_h/index-v1-a1.m3u8?t=LkUX6E_xKq-FqiJALpGC2JAowIedctnfRzAPvy868d8&s=1782348194&e=10800&f=56630453&srv=1065&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="mk2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilWwbL7jFe-BL3SHupC-FH5ani9FT7kPcdOyzKP20Lw&s=10" group-title="VOD | ACTION MOVIE",MORTAL KOMBAT II (2026)
+https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/08/11336/92l94uilenks_h/index-v1-a1.m3u8?t=vnWSX8KbQm2DhZGtWt0fBKQuvoOvkfWmvhT9TjSCT6c&s=1782348119&e=10800&f=56684356&srv=1065&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="pskl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJfTFB5ZdQRYeV2ebqlZqCKHlRtj6P9NuZN9P5Mwq_0neoHA8Bn0X-CY&s=10" group-title="VOD | ACTION MOVIE",PASAKALYE
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/04/11244/fod7e5bzyetq_h/index-v1-a1.m3u8?t=DwtnIagxEKBTV9YjCTVgMpsCB7XhvWm14ANgNWWvyCY&s=1782348370&e=10800&f=56223658&srv=1070&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="tfb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdlpHtj8BVyhWRw_bMeBMh-are2WL2iYeFy9dct7kBHK6srQW7UhIf9I&s=10" group-title="VOD | ACTION MOVIE",THE FINAL BATTLE
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/11351/k1s2zcaoq3ng_h/index-v1-a1.m3u8?t=SNcQUokoIRBdbqGRW_QnVnYJ4Qg0WqZpgApzC90lUkY&s=1782347941&e=10800&f=56756637&srv=1070&asn=&sp=4000&p=0
+
+##EXTINF:-1 tvg-id="fze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL26ZJE_Dik9JaDqdpw2eMCGP2BEEd_M9Dil7v6lteBPJI5vXMVtsLTWMhSelVid2YCu0J7cx7mk9_vHRRRpEwUMniWRjC2hxfJyDSQ&s=10" group-title="VOD | ACTION MOVIE",FUZE
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11383/ilpklu7adqto_h/index-v1-a1.m3u8?t=qv-vN1_eo5es8TP5cMbjPAerpfWAGoJAo1IWo8CZaGA&s=1782347692&e=10800&f=56918607&srv=1065&asn=&sp=4000&p=0
+
+
+========================================= ERR ===========================================
+
+
+##EXTINF:-1 tvg-id="twky" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/They_Will_Kill_You_film_poster.jpg" group-title="VOD | ACTION MOVIE",THEY WILL KILL YOU
+##EXTINF:-1 tvg-id="smc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaeSiI7Y2Tp7tcX9YRwIwiVbxlaWEHw1ASKsV-RXW5A&s=10" group-title="VOD | ACTION MOVIE ",SNAKE 5: MONSTER CITY
+##EXTINF:-1 tvg-id="mxcl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | ACTION MOVIE",MEXICALI
+##EXTINF:-1 tvg-id="wm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgxgmX1qHmfTLd6q3nMwixlbw8StcPUF9mvClm6xPzBDszK8UE1h3VxP_&s=10" group-title="VOD | ACTION MOVIE",WAR MACHINE
+
+
+##EXTINF:-1 tvg-id="prst" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUlnr-FctrJdqew9rxfD796purmMeECC3bks4v8E9DA&s" group-title="VOD | ACTION MOVIE",PARASAKTHI
+##EXTINF:-1 tvg-id="dtr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_w7DLMuzAn8otLc025_i1f0R0rkx8nN9YOcU5ViH_ww&s=10" group-title="VOD | ACTION MOVIE",DHURANDHAR: THE REVENGE (2026)
+##EXTINF:-1 tvg-id="nwbfsn" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDJjZWYtMGI5MC00OTU0LThkZTEtNjEzODkyMDI5YTFhXkEyXkFqcGc@._V1_.jpg" group-title="VOD | ACTION MOVIE",NINJA WARS - BLACK FOX VS SHOGUN'S NINJA
+
+
+
+========================================== VOD KIDS ===========================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
+
+#EXTINF:-1 tvg-id="kpa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCU-uLlYGl4MuujE-QH6pcqh96fj6tB6ijHl8zKelrg&s=10" group-title="VOD | KIDS ANIMATION",KUNG FU PANDA
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kung%20Fu%20Panda.m3u8
+
+#EXTINF:-1 tvg-id="smgm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev1uW0S0fx0iu4T9uMmlyPdqftKugOJeFS0fHUpm9Dg&s=10" group-title="VOD | KIDS ANIMATION",SUPER MARIO GALAXY MOVIE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie.m3u8
+
+#EXTINF:-1 tvg-id="swp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKF-cLRVpdrnqnCRnAcOQxvvF8Jr-whFQNgcPM5A46Q&s=10" group-title="VOD | KIDS ANIMATION",SWAPPED
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/swp.m3u8
+
+#EXTINF:-1 tvg-id="tloatla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLwEJBb_dOEp5JQaPX4GJQRmq2Fem9SsEjUZWAbO6FA&s" group-title="VOD | KIDS ANIMATION",THE LEGEND OF AANG: THE LAST AIRBENDER
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Aang_%20The%20Last%20Airbender%20(1).m3u8
+
+#EXTINF:-1 tvg-id="nbd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVbT5w8bDF4ZUEZxhEvg5v0Eeb6DcLAjj0SwfaZeUAA&s=10" group-title="VOD | KIDS ANIMATION",NOBODY
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8
+
+#EXTINF:-1 tvg-id="hprs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_03JUNW2DY_QKIm2N2Nghm6uCNL3TQ4AdKuCcbrDTQ&s" group-title="VOD | KIDS ANIMATION",HOPPERS
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Hoppers.m3u8
+
+#EXTINF:-1 tvg-id="goat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkch6NBHC2BDkHWhTy5N96c5hOayZC9Y5tc13mzj7OzA&s=10" group-title="VOD | KIDS ANIMATION",GOAT
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/GOAT2.m3u8
+
+#EXTINF:-1 tvg-id="ctw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEPf2dNIMhU4DN6IuPMMwbTDD9V5LHTWXNrBp1h6yEQ&s" group-title="VOD | KIDS ANIMATION",CHARLIE THE WONDERDOG
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Charlie%20the%20Wonderdog21.m3u8
+
+#EXTINF:-1 tvg-id="afaa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugOr7Mt1QciaTT16M8U1GrdjgF6jThCo0x4PnJeFWMg&s=10" group-title="VOD | KIDS ANIMATION",AVATAR FIRE AND ASH (2025)
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/Avatar_%20Aang%2C%20The%20Last%20Airbender%20(2026)1.m3u8
+
+#EXTINF:-1 tvg-id="asp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_30Zc8JA-SSYSwRXm0GETRpxBTVgdoPhiD9qwYxV6g&s=10" group-title="VOD | KIDS ANIMATION ",A SUPER PROGRESSIVE
+https://raw.githubusercontent.com/sinatra846/teacup/refs/heads/main/A%20Super%20Progressive1.m3u8
+
+#EXTINF:-1 tvg-id="tsmsfs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLnc1cKbyrCLZXeD6gNF4JO6qSOCFqsVndsN83THk7Q&s=10" group-title="VOD | KIDS ANIMATION",THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20SpongeBob%20Movie_%20Search%20for%20SquarePants%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="rphd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctjqHBm1mAOfIqqtgH4q-D4lpHmMvT0APjVoTm4Tksg&s=10" group-title="VOD | KIDS ANIMATION",R.L. STINE’S PUMPKINHEAD (2025 )
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/R.L.%20Stine%E2%80%99s%20Pumpkinhead%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="tloh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPkI555LM6hmgJfdowq_peTt-nqqRXEYf72mnYbNbHg&s=10" group-title="VOD | KIDS ANIMATION",THE LEGEND OF HEI 2 (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Hei%202%20(2025).m3u8
+
+#EXTINF:-1 tvg-id="anf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuG9Fj5syy2CjyMeraREF7VbON3782a2fy2nLJmHnqQ&s=10" group-title="VOD | KIDS ANIMATION",ANIMAL FARM (2026)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Animal%20Farm%20(2026).m3u8
+
+#EXTINF:-1 tvg-id="ddne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgiyYgznp_87hgiVQUpNknUjTHXKdwcJlJ8tx9Ex1sw&s=10" group-title="VOD | KIDS ANIMATION",DEATH DOES NOT EXIST (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Death%20Does%20Not%20Exist%20(2025).m3u8
 
 
 
