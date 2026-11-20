@@ -20,6 +20,9 @@ git push -u origin main
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | INDONESIA
 
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INDOSIAR.1.png?raw=true" group-title="CHANNEL | INDONESIA",0️⃣ INDOSIAR
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
+
 
 #EXTINF: -1 tvg-logo="" group-title="CHANNEL | INDONESIA",🆕INDOSIAR (V3)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
